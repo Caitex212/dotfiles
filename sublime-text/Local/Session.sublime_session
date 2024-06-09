@@ -1,102 +1,15 @@
 {
 	"file_history":
 	[
-		"/home/niels/Downloads/GitToken",
-		"/home/niels/.config/ags/widget/battery/Window.js",
-		"/home/niels/.config/ags/widget/battery/PanelButton.js",
-		"/home/niels/.gitconfig",
-		"/home/niels/.config/hypr/hyprland.conf",
-		"/home/niels/Downloads/aylur-dotfiles-main/ags/widget/bar/buttons/SysTray.ts",
-		"/home/niels/Downloads/aylur-dotfiles-main/ags/widget/bar/Bar.ts",
-		"/home/niels/.config/ags/widget/audio/PanelButton.js",
-		"/home/niels/.config/ags/widget/bar/Window.js",
-		"/home/niels/.config/ags/widget/trayicons/PanelButton.js",
-		"/home/niels/.config/ags/widget/applauncher/PanelButton.js",
-		"/home/niels/.config/ags/widget/applauncher/Window.js",
-		"/home/niels/.config/ags/widget/PanelButton.js",
-		"/home/niels/.config/ags/widget/bar/buttons/SysTray.ts",
-		"/home/niels/.config/ags/config.json",
-		"/home/niels/.config/ags/widget/wallpaper_picker/Window.js",
-		"/home/niels/.config/ags/colortest/Grello3.jpg.json",
-		"/home/niels/.config/ags/colortest/matugenchooser.sh",
-		"/home/niels/.config/ags/colortest/Grello2.png.json",
-		"/home/niels/.config/ags/colortest/Grello.jpg.json",
-		"/home/niels/.config/ags/colortest/.json",
-		"/home/niels/.config/ags/colortest/grello2.png.json",
-		"/home/niels/.config/ags/functions/wallpaper.js",
-		"/home/niels/.config/ags/colortest/nordschleife.png.json",
-		"/home/niels/.config/ags/colortest/killua-wallpaper_dark.png.json",
-		"/home/niels/.config/ags/colortest/bmws.png.json",
-		"/home/niels/.config/ags/style/vars.scss",
-		"/home/niels/.config/ags/colortest/killua-wallpaper_dark_ohneStern.png.json",
-		"/home/niels/.config/gtk-3.0/settings.ini",
-		"/usr/share/themes/adw-gtk3-dark/gtk-3.0/gtk-dark.css",
-		"/home/niels/.config/ags/style/widgets/workspaces.scss",
-		"/home/niels/.config/ags/style/widgets/bar.scss",
-		"/home/niels/.config/ags/style/main.scss",
-		"/home/niels/.config/ags/style/widgets/battery-popup.scss",
-		"/home/niels/.config/ags/style/widgets/audio-popup.scss",
-		"/home/niels/.config/ags/style/colors.scss",
-		"/home/niels/.config/ags/widget/control_center/buttons/screen_record.js",
-		"/home/niels/.config/ags/services/brightness.js",
-		"/home/niels/.config/ags/widget/osd/ProgressOsd.js",
-		"/home/niels/.config/ags/widget/osd/Progress.js",
-		"/home/niels/.config/ags/widget/network_speed/PanelButton.js",
-		"/home/niels/.config/ags/style/functions.scss",
-		"/home/niels/.config/ags/style/common.scss",
-		"/home/niels/.config/ags/widget/control_center/Brightness.js",
-		"/home/niels/.config/ags/widget/control_center/buttons/screenshot.js",
-		"/home/niels/.config/ags/widget/control_center/buttons/dnd.js",
-		"/home/niels/.config/ags/widget/control_center/Window.js",
-		"/home/niels/.config/ags/widget/control_center/Notifications.js",
-		"/home/niels/.config/ags/widget/control_center/PanelButton.js",
-		"/home/niels/.config/ags/style/widgets/network-speed.scss",
-		"/home/niels/.config/ags/vars.js",
-		"/home/niels/.config/ags/services/network_speed.js",
-		"/home/niels/.config/ags/functions/utils.js",
-		"/home/niels/.config/ags/config.js",
-		"/home/niels/.config/ags/widget/network/Bluetooth.js",
-		"/home/niels/.config/ags/widget/network/PanelButton.js",
-		"/home/niels/.config/ags/widget/network/Wifi.js",
-		"/home/niels/.config/ags/widget/network/Window.js",
-		"/home/niels/.config/ags/widget/client/PanelButton.js",
-		"/home/niels/.config/ags/widget/workspaces/PanelButton.js",
-		"/home/niels/.config/ags/widget/hyprsplash/Window.js",
-		"/home/niels/.config/ags/functions/globals.js",
-		"/home/niels/.config/ags/init.js",
-		"/home/niels/.config/ags/functions/monitor_configuration.js",
-		"/home/niels/.config/ags/windows.js",
-		"/home/niels/.config/ags/widget/control_center/buttons/color_picker.js",
-		"/home/niels/.config/ags/widget/control_center/buttons/dark_mode.js",
-		"/home/niels/.config/ags/widget/powermenu/PowerMenuWindow.js",
-		"/home/niels/.config/ags/widget/system_monitor/Window.js",
-		"/home/niels/.config/ags/widget/PopupWindow.js",
-		"/home/niels/.config/ags/services/powermenu.js",
-		"/home/niels/.config/ags/functions/theme/gtk.js",
-		"/home/niels/.config/ags/colors.json",
-		"/home/package.json",
-		"/home/package-lock.json",
-		"/home/niels/.config/ags/style/widgets/applauncher.scss",
-		"/home/niels/.config/ags/functions/theme/ags.js",
-		"/home/niels/.config/ags/functions/theme/init.js",
-		"/home/niels/.config/ags/services/configuration.js",
-		"/home/niels/.config/matugen/config.toml",
-		"/home/niels/Downloads/libadwaita-without-adwaita-git/theming_patch.diff",
-		"/home/niels/.config/ags/functions/theme/matugen.js",
-		"/usr/share/themes/adw-gtk3/gtk-4.0/gtk.css",
-		"/usr/share/themes/adw-gtk3/gtk-3.0/gtk.css",
-		"/home/niels/.config/sublime-text/Packages/Default/Preferences.sublime-settings",
-		"/home/niels/.config/sublime-text/Packages/User/Preferences.sublime-settings",
-		"/home/niels/.config/alacritty/alacritty.toml",
-		"/home/niels/Downloads/message.txt"
+		"/home/caitex/.config/hypr/hyprland.conf"
 	],
 	"folder_history":
 	[
 	],
 	"last_version": 4169,
-	"last_window_id": 3,
+	"last_window_id": 1,
 	"log_indexing": false,
-	"next_update_check": 1718013420,
+	"next_update_check": 1718038695,
 	"settings":
 	{
 		"new_window_full_screen": false,
@@ -146,103 +59,17 @@
 			},
 			"file_history":
 			[
-				"/home/niels/.config/.gitignore",
-				"/home/niels/Downloads/GitToken",
-				"/home/niels/.config/ags/widget/battery/Window.js",
-				"/home/niels/.config/ags/widget/battery/PanelButton.js",
-				"/home/niels/.gitconfig",
-				"/home/niels/.config/hypr/hyprland.conf",
-				"/home/niels/Downloads/aylur-dotfiles-main/ags/widget/bar/buttons/SysTray.ts",
-				"/home/niels/Downloads/aylur-dotfiles-main/ags/widget/bar/Bar.ts",
-				"/home/niels/.config/ags/widget/audio/PanelButton.js",
-				"/home/niels/.config/ags/widget/bar/Window.js",
-				"/home/niels/.config/ags/widget/trayicons/PanelButton.js",
-				"/home/niels/.config/ags/widget/applauncher/PanelButton.js",
-				"/home/niels/.config/ags/widget/applauncher/Window.js",
-				"/home/niels/.config/ags/widget/PanelButton.js",
-				"/home/niels/.config/ags/widget/bar/buttons/SysTray.ts",
-				"/home/niels/.config/ags/config.json",
-				"/home/niels/.config/ags/widget/wallpaper_picker/Window.js",
-				"/home/niels/.config/ags/colortest/Grello3.jpg.json",
-				"/home/niels/.config/ags/colortest/matugenchooser.sh",
-				"/home/niels/.config/ags/colortest/Grello2.png.json",
-				"/home/niels/.config/ags/colortest/Grello.jpg.json",
-				"/home/niels/.config/ags/colortest/.json",
-				"/home/niels/.config/ags/colortest/grello2.png.json",
-				"/home/niels/.config/ags/functions/wallpaper.js",
-				"/home/niels/.config/ags/colortest/nordschleife.png.json",
-				"/home/niels/.config/ags/colortest/killua-wallpaper_dark.png.json",
-				"/home/niels/.config/ags/colortest/bmws.png.json",
-				"/home/niels/.config/ags/style/vars.scss",
-				"/home/niels/.config/ags/colortest/killua-wallpaper_dark_ohneStern.png.json",
-				"/home/niels/.config/gtk-3.0/settings.ini",
-				"/usr/share/themes/adw-gtk3-dark/gtk-3.0/gtk-dark.css",
-				"/home/niels/.config/ags/style/widgets/workspaces.scss",
-				"/home/niels/.config/ags/style/widgets/bar.scss",
-				"/home/niels/.config/ags/style/main.scss",
-				"/home/niels/.config/ags/style/widgets/battery-popup.scss",
-				"/home/niels/.config/ags/style/widgets/audio-popup.scss",
-				"/home/niels/.config/ags/style/colors.scss",
-				"/home/niels/.config/ags/widget/control_center/buttons/screen_record.js",
-				"/home/niels/.config/ags/services/brightness.js",
-				"/home/niels/.config/ags/widget/osd/ProgressOsd.js",
-				"/home/niels/.config/ags/widget/osd/Progress.js",
-				"/home/niels/.config/ags/widget/network_speed/PanelButton.js",
-				"/home/niels/.config/ags/style/functions.scss",
-				"/home/niels/.config/ags/style/common.scss",
-				"/home/niels/.config/ags/widget/control_center/Brightness.js",
-				"/home/niels/.config/ags/widget/control_center/buttons/screenshot.js",
-				"/home/niels/.config/ags/widget/control_center/buttons/dnd.js",
-				"/home/niels/.config/ags/widget/control_center/Window.js",
-				"/home/niels/.config/ags/widget/control_center/Notifications.js",
-				"/home/niels/.config/ags/widget/control_center/PanelButton.js",
-				"/home/niels/.config/ags/style/widgets/network-speed.scss",
-				"/home/niels/.config/ags/vars.js",
-				"/home/niels/.config/ags/services/network_speed.js",
-				"/home/niels/.config/ags/functions/utils.js",
-				"/home/niels/.config/ags/config.js",
-				"/home/niels/.config/ags/widget/network/Bluetooth.js",
-				"/home/niels/.config/ags/widget/network/PanelButton.js",
-				"/home/niels/.config/ags/widget/network/Wifi.js",
-				"/home/niels/.config/ags/widget/network/Window.js",
-				"/home/niels/.config/ags/widget/client/PanelButton.js",
-				"/home/niels/.config/ags/widget/workspaces/PanelButton.js",
-				"/home/niels/.config/ags/widget/hyprsplash/Window.js",
-				"/home/niels/.config/ags/functions/globals.js",
-				"/home/niels/.config/ags/init.js",
-				"/home/niels/.config/ags/functions/monitor_configuration.js",
-				"/home/niels/.config/ags/windows.js",
-				"/home/niels/.config/ags/widget/control_center/buttons/color_picker.js",
-				"/home/niels/.config/ags/widget/control_center/buttons/dark_mode.js",
-				"/home/niels/.config/ags/widget/powermenu/PowerMenuWindow.js",
-				"/home/niels/.config/ags/widget/system_monitor/Window.js",
-				"/home/niels/.config/ags/widget/PopupWindow.js",
-				"/home/niels/.config/ags/services/powermenu.js",
-				"/home/niels/.config/ags/functions/theme/gtk.js",
-				"/home/niels/.config/ags/colors.json",
-				"/home/package.json",
-				"/home/package-lock.json",
-				"/home/niels/.config/ags/style/widgets/applauncher.scss",
-				"/home/niels/.config/ags/functions/theme/ags.js",
-				"/home/niels/.config/ags/functions/theme/init.js",
-				"/home/niels/.config/ags/services/configuration.js",
-				"/home/niels/.config/matugen/config.toml",
-				"/home/niels/Downloads/libadwaita-without-adwaita-git/theming_patch.diff",
-				"/home/niels/.config/ags/functions/theme/matugen.js",
-				"/usr/share/themes/adw-gtk3/gtk-4.0/gtk.css",
-				"/usr/share/themes/adw-gtk3/gtk-3.0/gtk.css",
-				"/home/niels/.config/sublime-text/Packages/Default/Preferences.sublime-settings",
-				"/home/niels/.config/sublime-text/Packages/User/Preferences.sublime-settings",
-				"/home/niels/.config/alacritty/alacritty.toml",
-				"/home/niels/Downloads/message.txt"
+				"/home/caitex/.config/ags/widget/battery/PanelButton.js",
+				"/home/caitex/Downloads/GitToken",
+				"/home/caitex/.config/hypr/hyprland.conf"
 			],
 			"find":
 			{
-				"height": 31.0
+				"height": 0.0
 			},
 			"find_in_files":
 			{
-				"height": 113.0,
+				"height": 0.0,
 				"where_history":
 				[
 				]
@@ -252,16 +79,6 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"AppLau",
-					"brigh",
-					"icon",
-					"icons",
-					"icon",
-					"import",
-					"appla",
-					"scree",
-					"icon",
-					"ags"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -280,7 +97,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 31.0
+				"height": 0.0
 			},
 			"input":
 			{
@@ -294,7 +111,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 58.0
+				"height": 0.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -327,14 +144,14 @@
 			"show_minimap": true,
 			"show_open_files": false,
 			"show_tabs": true,
-			"side_bar_visible": false,
+			"side_bar_visible": true,
 			"side_bar_width": 150.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 960.0
+		"new_window_width": 554.0
 	},
 	"windows":
 	[
@@ -348,18 +165,76 @@
 			"buffers":
 			[
 				{
-					"file": "/home/niels/Downloads/GitToken",
+					"file": "/home/caitex/Downloads/GitToken",
 					"settings":
 					{
 						"buffer_size": 40,
+						"encoding": "UTF-8",
 						"line_ending": "Unix"
-					}
+					},
+					"undo_stack":
+					[
+						[
+							4,
+							1,
+							"left_delete",
+							null,
+							"AQAAACgAAAAAAAAAKAAAAAAAAAABAAAACg",
+							"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAApAAAAAAAAACkAAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							4,
+							1,
+							"insert",
+							{
+								"characters": "\n-"
+							},
+							"AgAAACgAAAAAAAAAKQAAAAAAAAAAAAAAKQAAAAAAAAAqAAAAAAAAAAAAAAA",
+							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAACgAAAAAAAAAKAAAAAAAAAD////////vfw"
+						],
+						[
+							5,
+							1,
+							"insert",
+							{
+								"characters": ">"
+							},
+							"AQAAACoAAAAAAAAAKwAAAAAAAAAAAAAA",
+							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAACoAAAAAAAAAKgAAAAAAAAAAAAAAAADwvw"
+						],
+						[
+							6,
+							2,
+							"left_delete",
+							null,
+							"AgAAACoAAAAAAAAAKgAAAAAAAAABAAAAPikAAAAAAAAAKQAAAAAAAAABAAAALQ",
+							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAACsAAAAAAAAAKwAAAAAAAAAAAAAAAADwvw"
+						],
+						[
+							7,
+							1,
+							"insert",
+							{
+								"characters": "<="
+							},
+							"AgAAACkAAAAAAAAAKgAAAAAAAAAAAAAAKgAAAAAAAAArAAAAAAAAAAAAAAA",
+							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAACkAAAAAAAAAKQAAAAAAAAAAAAAAAADwvw"
+						],
+						[
+							8,
+							3,
+							"left_delete",
+							null,
+							"AwAAACoAAAAAAAAAKgAAAAAAAAABAAAAPSkAAAAAAAAAKQAAAAAAAAABAAAAPCgAAAAAAAAAKAAAAAAAAAABAAAACg",
+							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAACsAAAAAAAAAKwAAAAAAAAAAAAAAAADwvw"
+						]
+					]
 				},
 				{
-					"file": "/home/niels/.config/.gitignore",
+					"file": "/home/caitex/.config/ags/widget/battery/PanelButton.js",
 					"settings":
 					{
-						"buffer_size": 158,
+						"buffer_size": 985,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					},
@@ -367,241 +242,11 @@
 					[
 						[
 							3,
-							1,
-							"insert",
-							{
-								"characters": "\n"
-							},
-							"AQAAAGAAAAAAAAAAYQAAAAAAAAAAAAAA",
-							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAYAAAAAAAAABgAAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							1,
-							1,
-							"insert",
-							{
-								"characters": "/"
-							},
-							"AQAAAGEAAAAAAAAAYgAAAAAAAAAAAAAA",
-							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAGEAAAAAAAAAYQAAAAAAAAAAAAAAAADwvw"
-						],
-						[
 							2,
-							1,
 							"left_delete",
 							null,
-							"AQAAAGEAAAAAAAAAYQAAAAAAAAABAAAALw",
-							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAGIAAAAAAAAAYgAAAAAAAAAAAAAAAADwvw"
-						],
-						[
-							3,
-							1,
-							"insert",
-							{
-								"characters": "!"
-							},
-							"AQAAAGEAAAAAAAAAYgAAAAAAAAAAAAAA",
-							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAGEAAAAAAAAAYQAAAAAAAAAAAAAAAADwvw"
-						],
-						[
-							4,
-							1,
-							"insert",
-							{
-								"characters": "ala"
-							},
-							"AwAAAGIAAAAAAAAAYwAAAAAAAAAAAAAAYwAAAAAAAABkAAAAAAAAAAAAAABkAAAAAAAAAGUAAAAAAAAAAAAAAA",
-							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAGIAAAAAAAAAYgAAAAAAAAAAAAAAAADwvw"
-						],
-						[
-							5,
-							1,
-							"insert",
-							{
-								"characters": "critty"
-							},
-							"BgAAAGUAAAAAAAAAZgAAAAAAAAAAAAAAZgAAAAAAAABnAAAAAAAAAAAAAABnAAAAAAAAAGgAAAAAAAAAAAAAAGgAAAAAAAAAaQAAAAAAAAAAAAAAaQAAAAAAAABqAAAAAAAAAAAAAABqAAAAAAAAAGsAAAAAAAAAAAAAAA",
-							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAGUAAAAAAAAAZQAAAAAAAAAAAAAAAADwvw"
-						],
-						[
-							6,
-							1,
-							"insert",
-							{
-								"characters": "/"
-							},
-							"AQAAAGsAAAAAAAAAbAAAAAAAAAAAAAAA",
-							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAGsAAAAAAAAAawAAAAAAAAAAAAAAAADwvw"
-						],
-						[
-							7,
-							1,
-							"insert",
-							{
-								"characters": "\n!a"
-							},
-							"AwAAAGwAAAAAAAAAbQAAAAAAAAAAAAAAbQAAAAAAAABuAAAAAAAAAAAAAABuAAAAAAAAAG8AAAAAAAAAAAAAAA",
-							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAGwAAAAAAAAAbAAAAAAAAAAAAAAAAADwvw"
-						],
-						[
-							8,
-							1,
-							"insert",
-							{
-								"characters": "lacrit"
-							},
-							"BgAAAG8AAAAAAAAAcAAAAAAAAAAAAAAAcAAAAAAAAABxAAAAAAAAAAAAAABxAAAAAAAAAHIAAAAAAAAAAAAAAHIAAAAAAAAAcwAAAAAAAAAAAAAAcwAAAAAAAAB0AAAAAAAAAAAAAAB0AAAAAAAAAHUAAAAAAAAAAAAAAA",
-							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAG8AAAAAAAAAbwAAAAAAAAAAAAAAAADwvw"
-						],
-						[
-							9,
-							1,
-							"insert",
-							{
-								"characters": "ty"
-							},
-							"AgAAAHUAAAAAAAAAdgAAAAAAAAAAAAAAdgAAAAAAAAB3AAAAAAAAAAAAAAA",
-							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAHUAAAAAAAAAdQAAAAAAAAAAAAAAAADwvw"
-						],
-						[
-							10,
-							1,
-							"insert",
-							{
-								"characters": "/*/"
-							},
-							"AwAAAHcAAAAAAAAAeAAAAAAAAAAAAAAAeAAAAAAAAAB5AAAAAAAAAAAAAAB5AAAAAAAAAHoAAAAAAAAAAAAAAA",
-							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAHcAAAAAAAAAdwAAAAAAAAAAAAAAAADwvw"
-						],
-						[
-							11,
-							1,
-							"insert",
-							{
-								"characters": "**"
-							},
-							"AgAAAHoAAAAAAAAAewAAAAAAAAAAAAAAewAAAAAAAAB8AAAAAAAAAAAAAAA",
-							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAHoAAAAAAAAAegAAAAAAAAAAAAAAAADwvw"
-						],
-						[
-							12,
-							3,
-							"left_delete",
-							null,
-							"AwAAAHsAAAAAAAAAewAAAAAAAAABAAAAKnoAAAAAAAAAegAAAAAAAAABAAAAKnkAAAAAAAAAeQAAAAAAAAABAAAALw",
-							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAHwAAAAAAAAAfAAAAAAAAAAAAAAAAADwvw"
-						],
-						[
-							13,
-							1,
-							"insert",
-							{
-								"characters": "*/*"
-							},
-							"AwAAAHkAAAAAAAAAegAAAAAAAAAAAAAAegAAAAAAAAB7AAAAAAAAAAAAAAB7AAAAAAAAAHwAAAAAAAAAAAAAAA",
-							"AwAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAHkAAAAAAAAAeQAAAAAAAAAAAAAAAADwvw"
-						],
-						[
-							1,
-							1,
-							"insert",
-							{
-								"characters": "\n"
-							},
-							"AgAAAHwAAAAAAAAAfQAAAAAAAAAAAAAAbAAAAAAAAABtAAAAAAAAAAAAAAA",
-							"AQAAAAAAAAACAAAAbAAAAAAAAABsAAAAAAAAAAAAAAAAAPC/fAAAAAAAAAB8AAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							2,
-							1,
-							"left_delete",
-							null,
-							"AgAAAH0AAAAAAAAAfQAAAAAAAAABAAAACmwAAAAAAAAAbAAAAAAAAAABAAAACg",
-							"AQAAAAAAAAACAAAAbQAAAAAAAABtAAAAAAAAAAAAAAAAAPC/fgAAAAAAAAB+AAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							5,
-							1,
-							"insert",
-							{
-								"characters": "\n"
-							},
-							"AgAAAH0AAAAAAAAAfgAAAAAAAAAAAAAAfAAAAAAAAAB9AAAAAAAAAAAAAAA",
-							"AQAAAAAAAAACAAAAfAAAAAAAAAB8AAAAAAAAAAAAAAAAAPC/fQAAAAAAAAB9AAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							6,
-							2,
-							"right_delete",
-							null,
-							"AgAAAH0AAAAAAAAAfQAAAAAAAAABAAAACn0AAAAAAAAAfQAAAAAAAAABAAAACg",
-							"AQAAAAAAAAACAAAAfQAAAAAAAAB9AAAAAAAAAAAAAAAAAPC/fwAAAAAAAAB/AAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							7,
-							1,
-							"insert",
-							{
-								"characters": "!su"
-							},
-							"AwAAAH0AAAAAAAAAfgAAAAAAAAAAAAAAfgAAAAAAAAB/AAAAAAAAAAAAAAB/AAAAAAAAAIAAAAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAfQAAAAAAAAB9AAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							8,
-							1,
-							"insert",
-							{
-								"characters": "blime"
-							},
-							"BQAAAIAAAAAAAAAAgQAAAAAAAAAAAAAAgQAAAAAAAACCAAAAAAAAAAAAAACCAAAAAAAAAIMAAAAAAAAAAAAAAIMAAAAAAAAAhAAAAAAAAAAAAAAAhAAAAAAAAACFAAAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAgAAAAAAAAACAAAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							9,
-							1,
-							"insert",
-							{
-								"characters": "-text/"
-							},
-							"BgAAAIUAAAAAAAAAhgAAAAAAAAAAAAAAhgAAAAAAAACHAAAAAAAAAAAAAACHAAAAAAAAAIgAAAAAAAAAAAAAAIgAAAAAAAAAiQAAAAAAAAAAAAAAiQAAAAAAAACKAAAAAAAAAAAAAACKAAAAAAAAAIsAAAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAhQAAAAAAAACFAAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							14,
-							1,
-							"insert",
-							{
-								"characters": "\n"
-							},
-							"AQAAAIsAAAAAAAAAjAAAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAiwAAAAAAAACLAAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							15,
-							1,
-							"paste",
-							null,
-							"AQAAAIwAAAAAAAAAmgAAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAjAAAAAAAAACMAAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							16,
-							1,
-							"insert",
-							{
-								"characters": "**/**"
-							},
-							"BQAAAJoAAAAAAAAAmwAAAAAAAAAAAAAAmwAAAAAAAACcAAAAAAAAAAAAAACcAAAAAAAAAJ0AAAAAAAAAAAAAAJ0AAAAAAAAAngAAAAAAAAAAAAAAngAAAAAAAACfAAAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAmgAAAAAAAACaAAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							17,
-							1,
-							"left_delete",
-							null,
-							"AQAAAJ4AAAAAAAAAngAAAAAAAAABAAAAKg",
-							"AQAAAAAAAAABAAAAnwAAAAAAAACfAAAAAAAAAAAAAAAAAPC/"
+							"AgAAAFQDAAAAAAAAVAMAAAAAAAABAAAAL1MDAAAAAAAAUwMAAAAAAAABAAAALw",
+							"AQAAAAAAAAABAAAAVQMAAAAAAABVAwAAAAAAAAAAAAAAAPC/"
 						]
 					]
 				}
@@ -638,102 +283,15 @@
 			},
 			"file_history":
 			[
-				"/home/niels/Downloads/GitToken",
-				"/home/niels/.config/ags/widget/battery/Window.js",
-				"/home/niels/.config/ags/widget/battery/PanelButton.js",
-				"/home/niels/.gitconfig",
-				"/home/niels/.config/hypr/hyprland.conf",
-				"/home/niels/Downloads/aylur-dotfiles-main/ags/widget/bar/buttons/SysTray.ts",
-				"/home/niels/Downloads/aylur-dotfiles-main/ags/widget/bar/Bar.ts",
-				"/home/niels/.config/ags/widget/audio/PanelButton.js",
-				"/home/niels/.config/ags/widget/bar/Window.js",
-				"/home/niels/.config/ags/widget/trayicons/PanelButton.js",
-				"/home/niels/.config/ags/widget/applauncher/PanelButton.js",
-				"/home/niels/.config/ags/widget/applauncher/Window.js",
-				"/home/niels/.config/ags/widget/PanelButton.js",
-				"/home/niels/.config/ags/widget/bar/buttons/SysTray.ts",
-				"/home/niels/.config/ags/config.json",
-				"/home/niels/.config/ags/widget/wallpaper_picker/Window.js",
-				"/home/niels/.config/ags/colortest/Grello3.jpg.json",
-				"/home/niels/.config/ags/colortest/matugenchooser.sh",
-				"/home/niels/.config/ags/colortest/Grello2.png.json",
-				"/home/niels/.config/ags/colortest/Grello.jpg.json",
-				"/home/niels/.config/ags/colortest/.json",
-				"/home/niels/.config/ags/colortest/grello2.png.json",
-				"/home/niels/.config/ags/functions/wallpaper.js",
-				"/home/niels/.config/ags/colortest/nordschleife.png.json",
-				"/home/niels/.config/ags/colortest/killua-wallpaper_dark.png.json",
-				"/home/niels/.config/ags/colortest/bmws.png.json",
-				"/home/niels/.config/ags/style/vars.scss",
-				"/home/niels/.config/ags/colortest/killua-wallpaper_dark_ohneStern.png.json",
-				"/home/niels/.config/gtk-3.0/settings.ini",
-				"/usr/share/themes/adw-gtk3-dark/gtk-3.0/gtk-dark.css",
-				"/home/niels/.config/ags/style/widgets/workspaces.scss",
-				"/home/niels/.config/ags/style/widgets/bar.scss",
-				"/home/niels/.config/ags/style/main.scss",
-				"/home/niels/.config/ags/style/widgets/battery-popup.scss",
-				"/home/niels/.config/ags/style/widgets/audio-popup.scss",
-				"/home/niels/.config/ags/style/colors.scss",
-				"/home/niels/.config/ags/widget/control_center/buttons/screen_record.js",
-				"/home/niels/.config/ags/services/brightness.js",
-				"/home/niels/.config/ags/widget/osd/ProgressOsd.js",
-				"/home/niels/.config/ags/widget/osd/Progress.js",
-				"/home/niels/.config/ags/widget/network_speed/PanelButton.js",
-				"/home/niels/.config/ags/style/functions.scss",
-				"/home/niels/.config/ags/style/common.scss",
-				"/home/niels/.config/ags/widget/control_center/Brightness.js",
-				"/home/niels/.config/ags/widget/control_center/buttons/screenshot.js",
-				"/home/niels/.config/ags/widget/control_center/buttons/dnd.js",
-				"/home/niels/.config/ags/widget/control_center/Window.js",
-				"/home/niels/.config/ags/widget/control_center/Notifications.js",
-				"/home/niels/.config/ags/widget/control_center/PanelButton.js",
-				"/home/niels/.config/ags/style/widgets/network-speed.scss",
-				"/home/niels/.config/ags/vars.js",
-				"/home/niels/.config/ags/services/network_speed.js",
-				"/home/niels/.config/ags/functions/utils.js",
-				"/home/niels/.config/ags/config.js",
-				"/home/niels/.config/ags/widget/network/Bluetooth.js",
-				"/home/niels/.config/ags/widget/network/PanelButton.js",
-				"/home/niels/.config/ags/widget/network/Wifi.js",
-				"/home/niels/.config/ags/widget/network/Window.js",
-				"/home/niels/.config/ags/widget/client/PanelButton.js",
-				"/home/niels/.config/ags/widget/workspaces/PanelButton.js",
-				"/home/niels/.config/ags/widget/hyprsplash/Window.js",
-				"/home/niels/.config/ags/functions/globals.js",
-				"/home/niels/.config/ags/init.js",
-				"/home/niels/.config/ags/functions/monitor_configuration.js",
-				"/home/niels/.config/ags/windows.js",
-				"/home/niels/.config/ags/widget/control_center/buttons/color_picker.js",
-				"/home/niels/.config/ags/widget/control_center/buttons/dark_mode.js",
-				"/home/niels/.config/ags/widget/powermenu/PowerMenuWindow.js",
-				"/home/niels/.config/ags/widget/system_monitor/Window.js",
-				"/home/niels/.config/ags/widget/PopupWindow.js",
-				"/home/niels/.config/ags/services/powermenu.js",
-				"/home/niels/.config/ags/functions/theme/gtk.js",
-				"/home/niels/.config/ags/colors.json",
-				"/home/package.json",
-				"/home/package-lock.json",
-				"/home/niels/.config/ags/style/widgets/applauncher.scss",
-				"/home/niels/.config/ags/functions/theme/ags.js",
-				"/home/niels/.config/ags/functions/theme/init.js",
-				"/home/niels/.config/ags/services/configuration.js",
-				"/home/niels/.config/matugen/config.toml",
-				"/home/niels/Downloads/libadwaita-without-adwaita-git/theming_patch.diff",
-				"/home/niels/.config/ags/functions/theme/matugen.js",
-				"/usr/share/themes/adw-gtk3/gtk-4.0/gtk.css",
-				"/usr/share/themes/adw-gtk3/gtk-3.0/gtk.css",
-				"/home/niels/.config/sublime-text/Packages/Default/Preferences.sublime-settings",
-				"/home/niels/.config/sublime-text/Packages/User/Preferences.sublime-settings",
-				"/home/niels/.config/alacritty/alacritty.toml",
-				"/home/niels/Downloads/message.txt"
+				"/home/caitex/.config/hypr/hyprland.conf"
 			],
 			"find":
 			{
-				"height": 31.0
+				"height": 0.0
 			},
 			"find_in_files":
 			{
-				"height": 113.0,
+				"height": 0.0,
 				"where_history":
 				[
 				]
@@ -743,16 +301,6 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"AppLau",
-					"brigh",
-					"icon",
-					"icons",
-					"icon",
-					"import",
-					"appla",
-					"scree",
-					"icon",
-					"ags"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -776,7 +324,7 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/home/niels/Downloads/GitToken",
+							"file": "/home/caitex/Downloads/GitToken",
 							"semi_transient": false,
 							"settings":
 							{
@@ -787,7 +335,7 @@
 								"selection":
 								[
 									[
-										0,
+										40,
 										40
 									]
 								],
@@ -805,28 +353,30 @@
 						},
 						{
 							"buffer": 1,
-							"file": "/home/niels/.config/.gitignore",
+							"file": "/home/caitex/.config/ags/widget/battery/PanelButton.js",
 							"selected": true,
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 158,
+								"buffer_size": 985,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										158,
-										158
+										851,
+										851
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/Git Formats/Git Ignore.sublime-syntax"
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 297.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
@@ -838,7 +388,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 31.0
+				"height": 0.0
 			},
 			"input":
 			{
@@ -872,11 +422,11 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,1,0,0,0,0,0,939,488,1920,1080,0",
+			"position": "0,1,0,0,0,0,0,554,481,1920,1080,0",
 			"project": "",
 			"replace":
 			{
-				"height": 58.0
+				"height": 0.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -913,13 +463,13 @@
 			"show_minimap": true,
 			"show_open_files": false,
 			"show_tabs": true,
-			"side_bar_visible": false,
+			"side_bar_visible": true,
 			"side_bar_width": 150.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 3,
+			"window_id": 1,
 			"workspace_name": ""
 		}
 	],

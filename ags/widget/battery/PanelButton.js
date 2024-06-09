@@ -25,7 +25,7 @@ export default () =>
         }),
         Widget.Label({
           label: battery.bind("percent").as((p) => `${Math.round(p)}%`),
-          //visible: battery.bind("charging"), // Uncomment if you only want to display percent when charging.
+          visible: battery.bind("charging"), // Uncomment if you only want to display percent when charging.
         }),
       ],
     }),
