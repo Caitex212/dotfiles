@@ -1,8 +1,10 @@
 *
 
 !.gitignore
-!/ags
-!/hypr
+!ags/
+!ags/*
+!hypr/
+!hypr/*
 !background
 !background_blured.png
 !profile.png
