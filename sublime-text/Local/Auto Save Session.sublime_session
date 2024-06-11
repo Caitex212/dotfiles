@@ -1072,6 +1072,29 @@
 				},
 				{
 					"file": "/home/niels/.config/ags/widget/systray/SysTray.js",
+					"redo_stack":
+					[
+						[
+							25,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAAHsFAAAAAAAAewUAAAAAAAABAAAAIA",
+							"AQAAAAAAAAABAAAAfAUAAAAAAAB8BQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							24,
+							1,
+							"insert",
+							{
+								"characters": "git"
+							},
+							"AwAAAHoFAAAAAAAAegUAAAAAAAABAAAAdHkFAAAAAAAAeQUAAAAAAAABAAAAaXgFAAAAAAAAeAUAAAAAAAABAAAAZw",
+							"AQAAAAAAAAABAAAAewUAAAAAAAB7BQAAAAAAAAAAAAAAAPC/"
+						]
+					],
 					"settings":
 					{
 						"buffer_size": 1581,
