@@ -1,21 +1,15 @@
 .systray__container {
-	background-color: transparentize(if($dark_mode, $background, $on_secondary),
-			1 - $bar_button_opacity );
+	background-color: transparentize(if($dark_mode, $background, $on_secondary),1 - $bar_button_opacity );
 	padding: 5px;
 	border-radius: $bar_button_border_radius;
 	.workspace-button {
 		color: $on_background;
 		border-radius: $bar_button_border_radius;
 		padding: $panel_button_padding;
-		border: solid 2px $on_background;
 		border-radius: $bar_button_border_radius;
 		padding: 2px;
-		margin: 0px 2px 0px 2px;
+		margin: 2px 2px 2px 2px;
 		min-width: 18px;
 		min-height: 18px;
-
-		&:hover {
-		  border-color: $primary;
-		}
 	}
 }
