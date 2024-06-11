@@ -6,7 +6,7 @@ import Gio from "gi://Gio";
 export function cpWallpaper(filename) {
   const folder = configs.wallpaper.folder.value;
   const path = folder + "/" + filename;
-  sh(`/home/niels/.config/ags/colortest/matugenchooser.sh "${filename}"`);
+  sh(`${HOME}/.config/ags/colortest/matugenchooser.sh "${filename}"`);
   sh(`cp ${path} ${HOME}/.config/background`);
 }
 

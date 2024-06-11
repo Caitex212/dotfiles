@@ -1,7 +1,7 @@
 import BatteryPanelButton from "../battery/PanelButton.js";
 import DatePanelButton from "../datemenu/PanelButton.js";
 import NetworkSpeedIndicator from "../network_speed/PanelButton.js";
-import AppLauncherPanelButton from "../applauncher/PanelButton.js";
+//import AppLauncherPanelButton from "../applauncher/PanelButton.js";
 import WorkspacesPanelButton from "../workspaces/PanelButton.js";
 import ClientPanelButton from "../client/PanelButton.js";
 import ControlCenterPanelButton from "../control_center/PanelButton.js";
@@ -22,7 +22,7 @@ const getAnchor = () => ({
 });
 
 const startChildren = () => [
-  AppLauncherPanelButton(),
+  //AppLauncherPanelButton(),
   DatePanelButton(),
   WorkspacesPanelButton(),
 ];
