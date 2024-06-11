@@ -1056,6 +1056,122 @@
 							null,
 							"AQAAADIBAAAAAAAAMgEAAAAAAAAbAAAACgkJbWFyZ2luOiAwcHggMnB4IDBweCAycHg7",
 							"AQAAAAAAAAABAAAATQEAAAAAAAAyAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							388,
+							1,
+							"left_delete",
+							null,
+							"AQAAAC0BAAAAAAAALQEAAAAAAAABAAAAMQ",
+							"AQAAAAAAAAABAAAALgEAAAAAAAAuAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							389,
+							1,
+							"right_delete",
+							null,
+							"AQAAAC0BAAAAAAAALQEAAAAAAAABAAAAMA",
+							"AQAAAAAAAAABAAAALQEAAAAAAAAtAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							390,
+							1,
+							"insert",
+							{
+								"characters": "5"
+							},
+							"AQAAAC0BAAAAAAAALgEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAALQEAAAAAAAAtAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							391,
+							1,
+							"left_delete",
+							null,
+							"AQAAAC0BAAAAAAAALQEAAAAAAAABAAAANQ",
+							"AQAAAAAAAAABAAAALgEAAAAAAAAuAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							392,
+							1,
+							"insert",
+							{
+								"characters": "7"
+							},
+							"AQAAAC0BAAAAAAAALgEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAALQEAAAAAAAAtAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							393,
+							1,
+							"left_delete",
+							null,
+							"AQAAAC0BAAAAAAAALQEAAAAAAAABAAAANw",
+							"AQAAAAAAAAABAAAALgEAAAAAAAAuAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							394,
+							1,
+							"insert",
+							{
+								"characters": "9"
+							},
+							"AQAAAC0BAAAAAAAALgEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAALQEAAAAAAAAtAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							395,
+							1,
+							"left_delete",
+							null,
+							"AQAAAC0BAAAAAAAALQEAAAAAAAABAAAAOQ",
+							"AQAAAAAAAAABAAAALgEAAAAAAAAuAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							396,
+							1,
+							"insert",
+							{
+								"characters": "10"
+							},
+							"AgAAAC0BAAAAAAAALgEAAAAAAAAAAAAALgEAAAAAAAAvAQAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAALQEAAAAAAAAtAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							397,
+							1,
+							"left_delete",
+							null,
+							"AQAAAC4BAAAAAAAALgEAAAAAAAABAAAAMA",
+							"AQAAAAAAAAABAAAALwEAAAAAAAAvAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							398,
+							1,
+							"insert",
+							{
+								"characters": "1"
+							},
+							"AQAAAC4BAAAAAAAALwEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAALgEAAAAAAAAuAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							399,
+							1,
+							"left_delete",
+							null,
+							"AQAAAC4BAAAAAAAALgEAAAAAAAABAAAAMQ",
+							"AQAAAAAAAAABAAAALwEAAAAAAAAvAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							400,
+							1,
+							"insert",
+							{
+								"characters": "0"
+							},
+							"AQAAAC4BAAAAAAAALwEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAALgEAAAAAAAAuAQAAAAAAAAAAAAAAAPC/"
 						]
 					]
 				},
@@ -1072,32 +1188,9 @@
 				},
 				{
 					"file": "/home/niels/.config/ags/widget/systray/SysTray.js",
-					"redo_stack":
-					[
-						[
-							25,
-							1,
-							"insert",
-							{
-								"characters": " "
-							},
-							"AQAAAHsFAAAAAAAAewUAAAAAAAABAAAAIA",
-							"AQAAAAAAAAABAAAAfAUAAAAAAAB8BQAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							24,
-							1,
-							"insert",
-							{
-								"characters": "git"
-							},
-							"AwAAAHoFAAAAAAAAegUAAAAAAAABAAAAdHkFAAAAAAAAeQUAAAAAAAABAAAAaXgFAAAAAAAAeAUAAAAAAAABAAAAZw",
-							"AQAAAAAAAAABAAAAewUAAAAAAAB7BQAAAAAAAAAAAAAAAPC/"
-						]
-					],
 					"settings":
 					{
-						"buffer_size": 1581,
+						"buffer_size": 1607,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					},
@@ -1130,6 +1223,162 @@
 							null,
 							"AQAAAEcFAAAAAAAAeAUAAAAAAAAAAAAA",
 							"AQAAAAAAAAABAAAARwUAAAAAAABHBQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							28,
+							1,
+							"insert",
+							{
+								"characters": "\nsize"
+							},
+							"BgAAACACAAAAAAAAIQIAAAAAAAAAAAAAIQIAAAAAAAAxAgAAAAAAAAAAAAAxAgAAAAAAADICAAAAAAAAAAAAADICAAAAAAAAMwIAAAAAAAAAAAAAMwIAAAAAAAA0AgAAAAAAAAAAAAA0AgAAAAAAADUCAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAIAIAAAAAAAAgAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							29,
+							1,
+							"insert",
+							{
+								"characters": " "
+							},
+							"AQAAADUCAAAAAAAANgIAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAANQIAAAAAAAA1AgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							30,
+							1,
+							"left_delete",
+							null,
+							"AQAAADUCAAAAAAAANQIAAAAAAAABAAAAIA",
+							"AQAAAAAAAAABAAAANgIAAAAAAAA2AgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							31,
+							1,
+							"insert",
+							{
+								"characters": ":"
+							},
+							"AQAAADUCAAAAAAAANgIAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAANQIAAAAAAAA1AgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							32,
+							1,
+							"insert",
+							{
+								"characters": " 10"
+							},
+							"AwAAADYCAAAAAAAANwIAAAAAAAAAAAAANwIAAAAAAAA4AgAAAAAAAAAAAAA4AgAAAAAAADkCAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAANgIAAAAAAAA2AgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							33,
+							1,
+							"insert",
+							{
+								"characters": ","
+							},
+							"AQAAADkCAAAAAAAAOgIAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAOQIAAAAAAAA5AgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							35,
+							1,
+							"left_delete",
+							null,
+							"AQAAADcCAAAAAAAANwIAAAAAAAABAAAAMQ",
+							"AQAAAAAAAAABAAAAOAIAAAAAAAA4AgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							36,
+							1,
+							"insert",
+							{
+								"characters": "3"
+							},
+							"AQAAADcCAAAAAAAAOAIAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAANwIAAAAAAAA3AgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							37,
+							1,
+							"left_delete",
+							null,
+							"AQAAADcCAAAAAAAANwIAAAAAAAABAAAAMw",
+							"AQAAAAAAAAABAAAAOAIAAAAAAAA4AgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							38,
+							1,
+							"insert",
+							{
+								"characters": "2"
+							},
+							"AQAAADcCAAAAAAAAOAIAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAANwIAAAAAAAA3AgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							39,
+							1,
+							"left_delete",
+							null,
+							"AQAAADcCAAAAAAAANwIAAAAAAAABAAAAMg",
+							"AQAAAAAAAAABAAAAOAIAAAAAAAA4AgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							40,
+							1,
+							"right_delete",
+							null,
+							"AQAAADcCAAAAAAAANwIAAAAAAAABAAAAMA",
+							"AQAAAAAAAAABAAAANwIAAAAAAAA3AgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							41,
+							1,
+							"insert",
+							{
+								"characters": "18"
+							},
+							"AgAAADcCAAAAAAAAOAIAAAAAAAAAAAAAOAIAAAAAAAA5AgAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAANwIAAAAAAAA3AgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							42,
+							2,
+							"left_delete",
+							null,
+							"AgAAADgCAAAAAAAAOAIAAAAAAAABAAAAODcCAAAAAAAANwIAAAAAAAABAAAAMQ",
+							"AQAAAAAAAAABAAAAOQIAAAAAAAA5AgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							43,
+							1,
+							"insert",
+							{
+								"characters": "20"
+							},
+							"AgAAADcCAAAAAAAAOAIAAAAAAAAAAAAAOAIAAAAAAAA5AgAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAANwIAAAAAAAA3AgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							44,
+							2,
+							"left_delete",
+							null,
+							"AgAAADgCAAAAAAAAOAIAAAAAAAABAAAAMDcCAAAAAAAANwIAAAAAAAABAAAAMg",
+							"AQAAAAAAAAABAAAAOQIAAAAAAAA5AgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							45,
+							1,
+							"insert",
+							{
+								"characters": "18"
+							},
+							"AgAAADcCAAAAAAAAOAIAAAAAAAAAAAAAOAIAAAAAAAA5AgAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAANwIAAAAAAAA3AgAAAAAAAAAAAAAAAPC/"
 						]
 					]
 				}
@@ -1359,6 +1608,7 @@
 						{
 							"buffer": 1,
 							"file": "/home/niels/.config/ags/style/widgets/systray.scss",
+							"selected": true,
 							"semi_transient": false,
 							"settings":
 							{
@@ -1369,8 +1619,8 @@
 								"selection":
 								[
 									[
-										306,
-										306
+										303,
+										303
 									]
 								],
 								"settings":
@@ -1383,7 +1633,7 @@
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 2,
+							"stack_index": 0,
 							"stack_multiselect": false,
 							"type": "text"
 						},
@@ -1414,26 +1664,25 @@
 								"translation.y": 561.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 1,
+							"stack_index": 2,
 							"stack_multiselect": false,
 							"type": "text"
 						},
 						{
 							"buffer": 3,
 							"file": "/home/niels/.config/ags/widget/systray/SysTray.js",
-							"selected": true,
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 1581,
+								"buffer_size": 1607,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										1400,
-										1400
+										569,
+										569
 									]
 								],
 								"settings":
@@ -1443,10 +1692,10 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 472.0,
+								"translation.y": 40.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 0,
+							"stack_index": 1,
 							"stack_multiselect": false,
 							"type": "text"
 						}
@@ -1489,7 +1738,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,1,0,0,0,0,0,939,494,1920,1080,0",
+			"position": "0,1,0,0,0,0,0,939,493,1920,1080,0",
 			"project": "",
 			"replace":
 			{

@@ -12,6 +12,7 @@ function SysTray() {
                     "tray-button",
                     ], 
                 icon: item.bind("icon"),
+                size: 18,
                 setup: (self) => {
                     self.hook(configs.theme.bar.position, () => {
                       self.toggleClassName(
