@@ -1,14 +1,11 @@
 .systray__container {
-	background-color: transparentize(if($dark_mode, $background, $on_secondary),1 - $bar_button_opacity );
-	padding: 5px;
-	border-radius: $bar_button_border_radius;
-	.workspace-button {
+	.tray-button {
+		background-color: transparentize(if($dark_mode, $background, $on_secondary), 1 - $bar_button_opacity);
 		color: $on_background;
 		border-radius: $bar_button_border_radius;
 		padding: $panel_button_padding;
 		border-radius: $bar_button_border_radius;
-		padding: 2px;
-		margin: 2px 2px 2px 2px;
+		padding: 10px;
 		min-width: 18px;
 		min-height: 18px;
 	}

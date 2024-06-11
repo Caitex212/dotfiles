@@ -9,7 +9,7 @@ function SysTray() {
             child: Widget.Icon({ 
                 class_names: [
                     "systray__item",
-                    "workspace-button",
+                    "tray-button",
                     ], 
                 icon: item.bind("icon"),
                 setup: (self) => {
@@ -33,6 +33,7 @@ function SysTray() {
         })))
 
     return Widget.Box({
+        spacing: configs.theme.bar.button_spacing.bind(),
         children: items,
     })
 }
