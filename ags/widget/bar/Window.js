@@ -1,16 +1,18 @@
 import BatteryPanelButton from "../battery/PanelButton.js";
 import DatePanelButton from "../datemenu/PanelButton.js";
 import NetworkSpeedIndicator from "../network_speed/PanelButton.js";
-import AppLauncherPanelButton from "../applauncher/PanelButton.js";
+//import AppLauncherPanelButton from "../applauncher/PanelButton.js";
 import WorkspacesPanelButton from "../workspaces/PanelButton.js";
 import ClientPanelButton from "../client/PanelButton.js";
 import ControlCenterPanelButton from "../control_center/PanelButton.js";
 import ScreenRecordPanelButton from "../screen_record/PanelButton.js";
 import NetworkPanelButton from "../network/PanelButton.js";
 import AudioPanelButton from "../audio/PanelButton.js";
+import SysTray from "../systray/SysTray.js";
 import { configs } from "../../vars.js";
 import { isVertical } from "../../functions/utils.js";
 const hyprland = await Service.import("hyprland");
+const systemtray = await Service.import("systemtray");
 
 const WINDOW_NAME = "bar__window";
 
@@ -22,9 +24,10 @@ const getAnchor = () => ({
 });
 
 const startChildren = () => [
-  AppLauncherPanelButton(),
+  //AppLauncherPanelButton(),
   DatePanelButton(),
   WorkspacesPanelButton(),
+  SysTray(),
 ];
 
 const start = () =>
