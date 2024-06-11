@@ -1,12 +1,33 @@
 {
 	"file_history":
 	[
-		"/home/niels/.config/ags/config.js",
+		"/home/niels/Downloads/dotfiles-desktop/ags/style/colors.scss",
+		"/home/niels/Downloads/dotfiles-desktop/ags/style/common.scss",
+		"/home/niels/Downloads/dotfiles-desktop/ags/style/functions.scss",
+		"/home/niels/.config/ags/widget/bar/Window.js",
+		"/home/niels/Downloads/dotfiles-desktop/ags/style/vars.scss",
+		"/home/niels/Downloads/dotfiles-desktop/ags/widget/bar/Window.js",
+		"/home/niels/Downloads/dotfiles-desktop/ags/functions/utils.js",
+		"/home/niels/Downloads/dotfiles-desktop/ags/functions/wallpaper.js",
+		"/home/niels/Downloads/dotfiles-desktop/ags/windows.js",
+		"/home/niels/Downloads/dotfiles-desktop/ags/config.js",
+		"/home/niels/.gitconfig",
+		"/home/niels/.config/ags/widget/PanelButton.js",
+		"/home/niels/Downloads/dotfiles-desktop/ags/vars.js",
+		"/home/niels/Downloads/dotfiles-desktop/ags/init.js",
+		"/home/niels/.config/ags/vars.js",
+		"/home/niels/.config/ags/windows.js",
+		"/home/niels/.config/ags/init.js",
+		"/home/niels/.config/ags/services/asusctl.ts",
+		"/home/niels/.config/ags/widget/system_indicators/SystemIndicators.ts",
+		"/home/niels/Downloads/aylur-dotfiles-main/ags/widget/bar/buttons/SystemIndicators.ts",
+		"/home/niels/.config/ags/config.json",
 		"/home/niels/.config/ags/tsconfig.json",
+		"/home/niels/.config/ags/style/widgets/osd.scss",
+		"/home/niels/.config/ags/config.js",
 		"/home/niels/.config/ags/style/vars.scss",
 		"/home/niels/.config/ags/types/variable.d.ts",
 		"/home/niels/.config/ags/types/ags.d.ts",
-		"/home/niels/.config/ags/init.js",
 		"/home/niels/.config/ags/style/widgets/wallpaper-picker.scss",
 		"/home/niels/.config/ags/style/widgets/bar.scss",
 		"/home/niels/.config/ags/style/functions.scss",
@@ -26,17 +47,13 @@
 		"/home/niels/Desktop/Apps/Linux/StundenPlanFetchBash/settings.txt",
 		"/home/niels/.config/ags/widget/battery/Window.js",
 		"/home/niels/.config/ags/widget/battery/PanelButton.js",
-		"/home/niels/.gitconfig",
 		"/home/niels/Downloads/aylur-dotfiles-main/ags/widget/bar/buttons/SysTray.ts",
 		"/home/niels/Downloads/aylur-dotfiles-main/ags/widget/bar/Bar.ts",
 		"/home/niels/.config/ags/widget/audio/PanelButton.js",
-		"/home/niels/.config/ags/widget/bar/Window.js",
 		"/home/niels/.config/ags/widget/trayicons/PanelButton.js",
 		"/home/niels/.config/ags/widget/applauncher/PanelButton.js",
 		"/home/niels/.config/ags/widget/applauncher/Window.js",
-		"/home/niels/.config/ags/widget/PanelButton.js",
 		"/home/niels/.config/ags/widget/bar/buttons/SysTray.ts",
-		"/home/niels/.config/ags/config.json",
 		"/home/niels/.config/ags/widget/wallpaper_picker/Window.js",
 		"/home/niels/.config/ags/colortest/Grello3.jpg.json",
 		"/home/niels/.config/ags/colortest/Grello2.png.json",
@@ -63,7 +80,6 @@
 		"/home/niels/.config/ags/widget/control_center/Notifications.js",
 		"/home/niels/.config/ags/widget/control_center/PanelButton.js",
 		"/home/niels/.config/ags/style/widgets/network-speed.scss",
-		"/home/niels/.config/ags/vars.js",
 		"/home/niels/.config/ags/services/network_speed.js",
 		"/home/niels/.config/ags/functions/utils.js",
 		"/home/niels/.config/ags/widget/network/Bluetooth.js",
@@ -75,7 +91,6 @@
 		"/home/niels/.config/ags/widget/hyprsplash/Window.js",
 		"/home/niels/.config/ags/functions/globals.js",
 		"/home/niels/.config/ags/functions/monitor_configuration.js",
-		"/home/niels/.config/ags/windows.js",
 		"/home/niels/.config/ags/widget/control_center/buttons/color_picker.js",
 		"/home/niels/.config/ags/widget/control_center/buttons/dark_mode.js",
 		"/home/niels/.config/ags/widget/powermenu/PowerMenuWindow.js",
@@ -105,11 +120,11 @@
 	"last_version": 4169,
 	"last_window_id": 3,
 	"log_indexing": false,
-	"next_update_check": 1718099820,
+	"next_update_check": 1718186220,
 	"settings":
 	{
 		"new_window_full_screen": false,
-		"new_window_height": 509.0,
+		"new_window_height": 1019.0,
 		"new_window_maximized": true,
 		"new_window_position":
 		[
@@ -155,12 +170,35 @@
 			},
 			"file_history":
 			[
-				"/home/niels/.config/ags/config.js",
+				"/home/niels/Downloads/dotfiles-desktop/ags/style/main.scss",
+				"/home/niels/Documents/Coding&Design/Python/V-Plan_2.0/users.json",
+				"/home/niels/Downloads/dotfiles-desktop/ags/style/colors.scss",
+				"/home/niels/Downloads/dotfiles-desktop/ags/style/common.scss",
+				"/home/niels/Downloads/dotfiles-desktop/ags/style/functions.scss",
+				"/home/niels/.config/ags/widget/bar/Window.js",
+				"/home/niels/Downloads/dotfiles-desktop/ags/style/vars.scss",
+				"/home/niels/Downloads/dotfiles-desktop/ags/widget/bar/Window.js",
+				"/home/niels/Downloads/dotfiles-desktop/ags/functions/utils.js",
+				"/home/niels/Downloads/dotfiles-desktop/ags/functions/wallpaper.js",
+				"/home/niels/Downloads/dotfiles-desktop/ags/windows.js",
+				"/home/niels/Downloads/dotfiles-desktop/ags/config.js",
+				"/home/niels/.gitconfig",
+				"/home/niels/.config/ags/widget/PanelButton.js",
+				"/home/niels/Downloads/dotfiles-desktop/ags/vars.js",
+				"/home/niels/Downloads/dotfiles-desktop/ags/init.js",
+				"/home/niels/.config/ags/vars.js",
+				"/home/niels/.config/ags/windows.js",
+				"/home/niels/.config/ags/init.js",
+				"/home/niels/.config/ags/services/asusctl.ts",
+				"/home/niels/.config/ags/widget/system_indicators/SystemIndicators.ts",
+				"/home/niels/Downloads/aylur-dotfiles-main/ags/widget/bar/buttons/SystemIndicators.ts",
+				"/home/niels/.config/ags/config.json",
 				"/home/niels/.config/ags/tsconfig.json",
+				"/home/niels/.config/ags/style/widgets/osd.scss",
+				"/home/niels/.config/ags/config.js",
 				"/home/niels/.config/ags/style/vars.scss",
 				"/home/niels/.config/ags/types/variable.d.ts",
 				"/home/niels/.config/ags/types/ags.d.ts",
-				"/home/niels/.config/ags/init.js",
 				"/home/niels/.config/ags/style/widgets/wallpaper-picker.scss",
 				"/home/niels/.config/ags/style/widgets/bar.scss",
 				"/home/niels/.config/ags/style/functions.scss",
@@ -180,17 +218,13 @@
 				"/home/niels/Desktop/Apps/Linux/StundenPlanFetchBash/settings.txt",
 				"/home/niels/.config/ags/widget/battery/Window.js",
 				"/home/niels/.config/ags/widget/battery/PanelButton.js",
-				"/home/niels/.gitconfig",
 				"/home/niels/Downloads/aylur-dotfiles-main/ags/widget/bar/buttons/SysTray.ts",
 				"/home/niels/Downloads/aylur-dotfiles-main/ags/widget/bar/Bar.ts",
 				"/home/niels/.config/ags/widget/audio/PanelButton.js",
-				"/home/niels/.config/ags/widget/bar/Window.js",
 				"/home/niels/.config/ags/widget/trayicons/PanelButton.js",
 				"/home/niels/.config/ags/widget/applauncher/PanelButton.js",
 				"/home/niels/.config/ags/widget/applauncher/Window.js",
-				"/home/niels/.config/ags/widget/PanelButton.js",
 				"/home/niels/.config/ags/widget/bar/buttons/SysTray.ts",
-				"/home/niels/.config/ags/config.json",
 				"/home/niels/.config/ags/widget/wallpaper_picker/Window.js",
 				"/home/niels/.config/ags/colortest/Grello3.jpg.json",
 				"/home/niels/.config/ags/colortest/Grello2.png.json",
@@ -217,7 +251,6 @@
 				"/home/niels/.config/ags/widget/control_center/Notifications.js",
 				"/home/niels/.config/ags/widget/control_center/PanelButton.js",
 				"/home/niels/.config/ags/style/widgets/network-speed.scss",
-				"/home/niels/.config/ags/vars.js",
 				"/home/niels/.config/ags/services/network_speed.js",
 				"/home/niels/.config/ags/functions/utils.js",
 				"/home/niels/.config/ags/widget/network/Bluetooth.js",
@@ -229,7 +262,6 @@
 				"/home/niels/.config/ags/widget/hyprsplash/Window.js",
 				"/home/niels/.config/ags/functions/globals.js",
 				"/home/niels/.config/ags/functions/monitor_configuration.js",
-				"/home/niels/.config/ags/windows.js",
 				"/home/niels/.config/ags/widget/control_center/buttons/color_picker.js",
 				"/home/niels/.config/ags/widget/control_center/buttons/dark_mode.js",
 				"/home/niels/.config/ags/widget/powermenu/PowerMenuWindow.js",
@@ -364,6 +396,22 @@
 			},
 			"buffers":
 			[
+				{
+					"file": "/home/niels/Documents/Coding&Design/Python/V-Plan_2.0/users.json",
+					"settings":
+					{
+						"buffer_size": 763,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/niels/Downloads/dotfiles-desktop/ags/style/main.scss",
+					"settings":
+					{
+						"buffer_size": 696,
+						"line_ending": "Unix"
+					}
+				}
 			],
 			"build_system": "",
 			"build_system_choices":
@@ -397,12 +445,33 @@
 			},
 			"file_history":
 			[
-				"/home/niels/.config/ags/config.js",
+				"/home/niels/Downloads/dotfiles-desktop/ags/style/colors.scss",
+				"/home/niels/Downloads/dotfiles-desktop/ags/style/common.scss",
+				"/home/niels/Downloads/dotfiles-desktop/ags/style/functions.scss",
+				"/home/niels/.config/ags/widget/bar/Window.js",
+				"/home/niels/Downloads/dotfiles-desktop/ags/style/vars.scss",
+				"/home/niels/Downloads/dotfiles-desktop/ags/widget/bar/Window.js",
+				"/home/niels/Downloads/dotfiles-desktop/ags/functions/utils.js",
+				"/home/niels/Downloads/dotfiles-desktop/ags/functions/wallpaper.js",
+				"/home/niels/Downloads/dotfiles-desktop/ags/windows.js",
+				"/home/niels/Downloads/dotfiles-desktop/ags/config.js",
+				"/home/niels/.gitconfig",
+				"/home/niels/.config/ags/widget/PanelButton.js",
+				"/home/niels/Downloads/dotfiles-desktop/ags/vars.js",
+				"/home/niels/Downloads/dotfiles-desktop/ags/init.js",
+				"/home/niels/.config/ags/vars.js",
+				"/home/niels/.config/ags/windows.js",
+				"/home/niels/.config/ags/init.js",
+				"/home/niels/.config/ags/services/asusctl.ts",
+				"/home/niels/.config/ags/widget/system_indicators/SystemIndicators.ts",
+				"/home/niels/Downloads/aylur-dotfiles-main/ags/widget/bar/buttons/SystemIndicators.ts",
+				"/home/niels/.config/ags/config.json",
 				"/home/niels/.config/ags/tsconfig.json",
+				"/home/niels/.config/ags/style/widgets/osd.scss",
+				"/home/niels/.config/ags/config.js",
 				"/home/niels/.config/ags/style/vars.scss",
 				"/home/niels/.config/ags/types/variable.d.ts",
 				"/home/niels/.config/ags/types/ags.d.ts",
-				"/home/niels/.config/ags/init.js",
 				"/home/niels/.config/ags/style/widgets/wallpaper-picker.scss",
 				"/home/niels/.config/ags/style/widgets/bar.scss",
 				"/home/niels/.config/ags/style/functions.scss",
@@ -422,17 +491,13 @@
 				"/home/niels/Desktop/Apps/Linux/StundenPlanFetchBash/settings.txt",
 				"/home/niels/.config/ags/widget/battery/Window.js",
 				"/home/niels/.config/ags/widget/battery/PanelButton.js",
-				"/home/niels/.gitconfig",
 				"/home/niels/Downloads/aylur-dotfiles-main/ags/widget/bar/buttons/SysTray.ts",
 				"/home/niels/Downloads/aylur-dotfiles-main/ags/widget/bar/Bar.ts",
 				"/home/niels/.config/ags/widget/audio/PanelButton.js",
-				"/home/niels/.config/ags/widget/bar/Window.js",
 				"/home/niels/.config/ags/widget/trayicons/PanelButton.js",
 				"/home/niels/.config/ags/widget/applauncher/PanelButton.js",
 				"/home/niels/.config/ags/widget/applauncher/Window.js",
-				"/home/niels/.config/ags/widget/PanelButton.js",
 				"/home/niels/.config/ags/widget/bar/buttons/SysTray.ts",
-				"/home/niels/.config/ags/config.json",
 				"/home/niels/.config/ags/widget/wallpaper_picker/Window.js",
 				"/home/niels/.config/ags/colortest/Grello3.jpg.json",
 				"/home/niels/.config/ags/colortest/Grello2.png.json",
@@ -459,7 +524,6 @@
 				"/home/niels/.config/ags/widget/control_center/Notifications.js",
 				"/home/niels/.config/ags/widget/control_center/PanelButton.js",
 				"/home/niels/.config/ags/style/widgets/network-speed.scss",
-				"/home/niels/.config/ags/vars.js",
 				"/home/niels/.config/ags/services/network_speed.js",
 				"/home/niels/.config/ags/functions/utils.js",
 				"/home/niels/.config/ags/widget/network/Bluetooth.js",
@@ -471,7 +535,6 @@
 				"/home/niels/.config/ags/widget/hyprsplash/Window.js",
 				"/home/niels/.config/ags/functions/globals.js",
 				"/home/niels/.config/ags/functions/monitor_configuration.js",
-				"/home/niels/.config/ags/windows.js",
 				"/home/niels/.config/ags/widget/control_center/buttons/color_picker.js",
 				"/home/niels/.config/ags/widget/control_center/buttons/dark_mode.js",
 				"/home/niels/.config/ags/widget/powermenu/PowerMenuWindow.js",
@@ -542,6 +605,65 @@
 				{
 					"sheets":
 					[
+						{
+							"buffer": 0,
+							"file": "/home/niels/Documents/Coding&Design/Python/V-Plan_2.0/users.json",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 763,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JSON/JSON.sublime-syntax"
+								},
+								"translation.x": 2161.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/niels/Downloads/dotfiles-desktop/ags/style/main.scss",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 696,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
 					]
 				}
 			],
@@ -581,7 +703,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,1,0,0,0,0,0,939,495,1920,1080,0",
+			"position": "0,1,0,0,0,0,0,1892,997,1920,1080,0",
 			"project": "",
 			"replace":
 			{

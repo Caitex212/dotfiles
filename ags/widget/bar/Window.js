@@ -8,6 +8,7 @@ import ControlCenterPanelButton from "../control_center/PanelButton.js";
 import ScreenRecordPanelButton from "../screen_record/PanelButton.js";
 import NetworkPanelButton from "../network/PanelButton.js";
 import AudioPanelButton from "../audio/PanelButton.js";
+import SysTray from "../systray/SysTray.js";
 import { configs } from "../../vars.js";
 import { isVertical } from "../../functions/utils.js";
 const hyprland = await Service.import("hyprland");
@@ -25,6 +26,7 @@ const startChildren = () => [
   //AppLauncherPanelButton(),
   DatePanelButton(),
   WorkspacesPanelButton(),
+  SysTray(),
 ];
 
 const start = () =>
