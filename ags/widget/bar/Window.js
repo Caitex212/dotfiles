@@ -12,7 +12,6 @@ import SysTray from "../systray/SysTray.js";
 import { configs } from "../../vars.js";
 import { isVertical } from "../../functions/utils.js";
 const hyprland = await Service.import("hyprland");
-const systemtray = await Service.import("systemtray");
 
 const WINDOW_NAME = "bar__window";
 
