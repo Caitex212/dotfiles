@@ -1,12 +1,25 @@
 {
 	"file_history":
 	[
+		"/home/niels/.config/ags/services/configuration.js",
+		"/home/niels/.config/ags/functions/globals.js",
+		"/home/niels/.config/ags/functions/monitor_configuration.js",
+		"/home/niels/.config/ags/colors.json",
+		"/home/niels/.config/ags/config.json",
+		"/home/niels/.config/ags/config.js",
+		"/home/niels/.config/ags/init.js",
+		"/home/niels/.config/ags/windows.js",
+		"/home/niels/Desktop/Apps/Linux/BacklightControls/brightnessold",
+		"/home/niels/.config/hypr/hyprlock.conf",
+		"/home/niels/.config/hypr/hypridle.conf",
+		"/home/niels/Desktop/Apps/Linux/BacklightControls/brightnesstog.py",
+		"/home/niels/.config/hypr/hyprland.conf",
+		"/home/niels/.config/ags/tsconfig.json",
 		"/sys/class/backlight/intel_backlight/brightness",
 		"/home/niels/.config/ags/widget/systray/SysTray.js",
 		"/home/niels/.config/ags/widget/bar/Window.js",
 		"/home/niels/Documents/Coding&Design/Python/V-Plan_2.0/users.json",
 		"/home/niels/.config/ags/style/widgets/systray.scss",
-		"/home/niels/.config/hypr/hyprland.conf",
 		"/home/niels/.config/ags/widget/PanelButton.js",
 		"/home/niels/Downloads/dotfiles-desktop/ags/style/main.scss",
 		"/home/niels/Downloads/dotfiles-desktop/ags/style/colors.scss",
@@ -22,15 +35,10 @@
 		"/home/niels/Downloads/dotfiles-desktop/ags/vars.js",
 		"/home/niels/Downloads/dotfiles-desktop/ags/init.js",
 		"/home/niels/.config/ags/vars.js",
-		"/home/niels/.config/ags/windows.js",
-		"/home/niels/.config/ags/init.js",
 		"/home/niels/.config/ags/services/asusctl.ts",
 		"/home/niels/.config/ags/widget/system_indicators/SystemIndicators.ts",
 		"/home/niels/Downloads/aylur-dotfiles-main/ags/widget/bar/buttons/SystemIndicators.ts",
-		"/home/niels/.config/ags/config.json",
-		"/home/niels/.config/ags/tsconfig.json",
 		"/home/niels/.config/ags/style/widgets/osd.scss",
-		"/home/niels/.config/ags/config.js",
 		"/home/niels/.config/ags/style/vars.scss",
 		"/home/niels/.config/ags/types/variable.d.ts",
 		"/home/niels/.config/ags/types/ags.d.ts",
@@ -46,7 +54,6 @@
 		"/home/niels/Downloads/GitToken",
 		"/home/niels/.config/ags/colortest/killua-wallpaper_dark_ohneStern.png.json",
 		"/home/niels/.config/.gitignore",
-		"/home/niels/.config/ags/colors.json",
 		"/home/niels/Desktop/Apps/Linux/StundenPlanFetchBash/owner_lessons.txt",
 		"/home/niels/Desktop/Apps/Linux/StundenPlanFetchBash/.pdf_creds.txt",
 		"/home/niels/Desktop/Apps/Linux/StundenPlanFetchBash/settings.txt",
@@ -94,8 +101,6 @@
 		"/home/niels/.config/ags/widget/client/PanelButton.js",
 		"/home/niels/.config/ags/widget/workspaces/PanelButton.js",
 		"/home/niels/.config/ags/widget/hyprsplash/Window.js",
-		"/home/niels/.config/ags/functions/globals.js",
-		"/home/niels/.config/ags/functions/monitor_configuration.js",
 		"/home/niels/.config/ags/widget/control_center/buttons/color_picker.js",
 		"/home/niels/.config/ags/widget/control_center/buttons/dark_mode.js",
 		"/home/niels/.config/ags/widget/powermenu/PowerMenuWindow.js",
@@ -108,7 +113,6 @@
 		"/home/niels/.config/ags/style/widgets/applauncher.scss",
 		"/home/niels/.config/ags/functions/theme/ags.js",
 		"/home/niels/.config/ags/functions/theme/init.js",
-		"/home/niels/.config/ags/services/configuration.js",
 		"/home/niels/.config/matugen/config.toml",
 		"/home/niels/Downloads/libadwaita-without-adwaita-git/theming_patch.diff",
 		"/home/niels/.config/ags/functions/theme/matugen.js",
@@ -125,11 +129,11 @@
 	"last_version": 4169,
 	"last_window_id": 3,
 	"log_indexing": false,
-	"next_update_check": 1718359020,
+	"next_update_check": 1718445420,
 	"settings":
 	{
 		"new_window_full_screen": false,
-		"new_window_height": 1080.0,
+		"new_window_height": 509.0,
 		"new_window_maximized": true,
 		"new_window_position":
 		[
@@ -175,11 +179,21 @@
 			},
 			"file_history":
 			[
+				"/home/niels/.config/hypr/hypridle.conf",
+				"/home/niels/Desktop/Apps/Linux/BacklightControls/DisplayToggle.sh",
+				"/home/niels/.config/hypr/hyprland.conf",
+				"/home/niels/.config/ags/services/configuration.js",
+				"/home/niels/.config/ags/functions/globals.js",
+				"/home/niels/.config/ags/functions/monitor_configuration.js",
+				"/home/niels/.config/ags/colors.json",
+				"/home/niels/.config/ags/config.json",
+				"/home/niels/.config/ags/config.js",
+				"/home/niels/.config/ags/init.js",
+				"/home/niels/.config/ags/windows.js",
 				"/home/niels/Desktop/Apps/Linux/BacklightControls/brightnessold",
 				"/home/niels/.config/hypr/hyprlock.conf",
-				"/home/niels/.config/hypr/hypridle.conf",
-				"/home/niels/.config/hypr/hyprland.conf",
 				"/home/niels/Desktop/Apps/Linux/BacklightControls/brightnesstog.py",
+				"/home/niels/.config/ags/tsconfig.json",
 				"/sys/class/backlight/intel_backlight/brightness",
 				"/home/niels/.config/ags/widget/systray/SysTray.js",
 				"/home/niels/.config/ags/widget/bar/Window.js",
@@ -200,15 +214,10 @@
 				"/home/niels/Downloads/dotfiles-desktop/ags/vars.js",
 				"/home/niels/Downloads/dotfiles-desktop/ags/init.js",
 				"/home/niels/.config/ags/vars.js",
-				"/home/niels/.config/ags/windows.js",
-				"/home/niels/.config/ags/init.js",
 				"/home/niels/.config/ags/services/asusctl.ts",
 				"/home/niels/.config/ags/widget/system_indicators/SystemIndicators.ts",
 				"/home/niels/Downloads/aylur-dotfiles-main/ags/widget/bar/buttons/SystemIndicators.ts",
-				"/home/niels/.config/ags/config.json",
-				"/home/niels/.config/ags/tsconfig.json",
 				"/home/niels/.config/ags/style/widgets/osd.scss",
-				"/home/niels/.config/ags/config.js",
 				"/home/niels/.config/ags/style/vars.scss",
 				"/home/niels/.config/ags/types/variable.d.ts",
 				"/home/niels/.config/ags/types/ags.d.ts",
@@ -224,7 +233,6 @@
 				"/home/niels/Downloads/GitToken",
 				"/home/niels/.config/ags/colortest/killua-wallpaper_dark_ohneStern.png.json",
 				"/home/niels/.config/.gitignore",
-				"/home/niels/.config/ags/colors.json",
 				"/home/niels/Desktop/Apps/Linux/StundenPlanFetchBash/owner_lessons.txt",
 				"/home/niels/Desktop/Apps/Linux/StundenPlanFetchBash/.pdf_creds.txt",
 				"/home/niels/Desktop/Apps/Linux/StundenPlanFetchBash/settings.txt",
@@ -272,8 +280,6 @@
 				"/home/niels/.config/ags/widget/client/PanelButton.js",
 				"/home/niels/.config/ags/widget/workspaces/PanelButton.js",
 				"/home/niels/.config/ags/widget/hyprsplash/Window.js",
-				"/home/niels/.config/ags/functions/globals.js",
-				"/home/niels/.config/ags/functions/monitor_configuration.js",
 				"/home/niels/.config/ags/widget/control_center/buttons/color_picker.js",
 				"/home/niels/.config/ags/widget/control_center/buttons/dark_mode.js",
 				"/home/niels/.config/ags/widget/powermenu/PowerMenuWindow.js",
@@ -286,7 +292,6 @@
 				"/home/niels/.config/ags/style/widgets/applauncher.scss",
 				"/home/niels/.config/ags/functions/theme/ags.js",
 				"/home/niels/.config/ags/functions/theme/init.js",
-				"/home/niels/.config/ags/services/configuration.js",
 				"/home/niels/.config/matugen/config.toml",
 				"/home/niels/Downloads/libadwaita-without-adwaita-git/theming_patch.diff",
 				"/home/niels/.config/ags/functions/theme/matugen.js",
@@ -313,6 +318,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"light",
 					"screensh",
 					"AppLau",
 					"brigh",
@@ -396,7 +402,7 @@
 			{
 			}
 		},
-		"new_window_width": 1920.0
+		"new_window_width": 960.0
 	},
 	"windows":
 	[
@@ -410,291 +416,199 @@
 			"buffers":
 			[
 				{
-					"file": "/home/niels/Desktop/Apps/Linux/BacklightControls/brightnesstog.py",
-					"settings":
-					{
-						"buffer_size": 776,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					},
-					"undo_stack":
-					[
-						[
-							3,
-							4,
-							"left_delete",
-							null,
-							"BAAAAGwAAAAAAAAAbAAAAAAAAAABAAAAeGsAAAAAAAAAawAAAAAAAAABAAAAb2oAAAAAAAAAagAAAAAAAAABAAAAeWkAAAAAAAAAaQAAAAAAAAABAAAAbg",
-							"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABtAAAAAAAAAG0AAAAAAAAAAAAAAAAA8L8"
-						],
-						[
-							4,
-							1,
-							"insert",
-							{
-								"characters": "niels"
-							},
-							"BQAAAGkAAAAAAAAAagAAAAAAAAAAAAAAagAAAAAAAABrAAAAAAAAAAAAAABrAAAAAAAAAGwAAAAAAAAAAAAAAGwAAAAAAAAAbQAAAAAAAAAAAAAAbQAAAAAAAABuAAAAAAAAAAAAAAA",
-							"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABpAAAAAAAAAGkAAAAAAAAAAAAAAAAA8L8"
-						],
-						[
-							5,
-							1,
-							"insert",
-							{
-								"characters": "x"
-							},
-							"AQAAAG4AAAAAAAAAbwAAAAAAAAAAAAAA",
-							"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABuAAAAAAAAAG4AAAAAAAAAAAAAAAAA8L8"
-						],
-						[
-							6,
-							1,
-							"left_delete",
-							null,
-							"AQAAAG4AAAAAAAAAbgAAAAAAAAABAAAAeA",
-							"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABvAAAAAAAAAG8AAAAAAAAAAAAAAAAA8L8"
-						]
-					]
-				},
-				{
 					"file": "/home/niels/.config/hypr/hyprland.conf",
 					"settings":
 					{
-						"buffer_size": 9097,
+						"buffer_size": 9250,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					},
 					"undo_stack":
 					[
 						[
-							10,
-							3,
-							"left_delete",
-							null,
-							"AwAAAEoeAAAAAAAASh4AAAAAAAABAAAAeEkeAAAAAAAASR4AAAAAAAABAAAAb0geAAAAAAAASB4AAAAAAAABAAAAeQ",
-							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAASx4AAAAAAABLHgAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							11,
-							1,
-							"insert",
-							{
-								"characters": "iels"
-							},
-							"BAAAAEgeAAAAAAAASR4AAAAAAAAAAAAASR4AAAAAAABKHgAAAAAAAAAAAABKHgAAAAAAAEseAAAAAAAAAAAAAEseAAAAAAAATB4AAAAAAAAAAAAA",
-							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAASB4AAAAAAABIHgAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							30,
-							2,
-							"left_delete",
-							null,
-							"AgAAABweAAAAAAAAHB4AAAAAAAABAAAAIBseAAAAAAAAGx4AAAAAAAABAAAAIw",
-							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAHR4AAAAAAAAdHgAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							7,
-							1,
-							"left_delete",
-							null,
-							"AQAAAPYeAAAAAAAA9h4AAAAAAAABAAAAMA",
-							"AQAAAAAAAAABAAAA9x4AAAAAAAD3HgAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							8,
-							1,
-							"left_delete",
-							null,
-							"AQAAAPUeAAAAAAAA9R4AAAAAAAABAAAAMQ",
-							"AQAAAAAAAAABAAAA9h4AAAAAAAD2HgAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							9,
-							1,
-							"insert",
-							{
-								"characters": "5"
-							},
-							"AQAAAPUeAAAAAAAA9h4AAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAA9R4AAAAAAAD1HgAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							11,
-							2,
-							"left_delete",
-							null,
-							"AgAAALoeAAAAAAAAuh4AAAAAAAABAAAAMLkeAAAAAAAAuR4AAAAAAAABAAAAMQ",
-							"AQAAAAAAAAABAAAAux4AAAAAAAC7HgAAAAAAAAAAAAAA0IFA"
-						],
-						[
 							12,
 							1,
-							"insert",
-							{
-								"characters": "5"
-							},
-							"AQAAALkeAAAAAAAAuh4AAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAuR4AAAAAAAC5HgAAAAAAAAAAAAAAAPC/"
+							"left_delete",
+							null,
+							"AQAAANUeAAAAAAAA1R4AAAAAAAAIAAAAcHl0aG9uMyA",
+							"AQAAAAAAAAABAAAA3R4AAAAAAADVHgAAAAAAAAAAAAAAAPC/"
 						],
 						[
-							13,
+							15,
 							1,
 							"left_delete",
 							null,
-							"AQAAALkeAAAAAAAAuR4AAAAAAAABAAAANQ",
-							"AQAAAAAAAAABAAAAuh4AAAAAAAC6HgAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							14,
-							1,
-							"insert",
-							{
-								"characters": "10"
-							},
-							"AgAAALkeAAAAAAAAuh4AAAAAAAAAAAAAuh4AAAAAAAC7HgAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAuR4AAAAAAAC5HgAAAAAAAAAAAAAAAPC/"
+							"AQAAAAYfAAAAAAAABh8AAAAAAAAQAAAAYnJpZ2h0bmVzc3RvZy5weQ",
+							"AQAAAAAAAAABAAAAFh8AAAAAAAAGHwAAAAAAAAAAAAAAAPC/"
 						],
 						[
 							16,
 							1,
-							"left_delete",
-							null,
-							"AQAAAPUeAAAAAAAA9R4AAAAAAAABAAAANQ",
-							"AQAAAAAAAAABAAAA9h4AAAAAAAD2HgAAAAAAAAAAAAAA0IFA"
+							"insert",
+							{
+								"characters": "Displa"
+							},
+							"BgAAAAYfAAAAAAAABx8AAAAAAAAAAAAABx8AAAAAAAAIHwAAAAAAAAAAAAAIHwAAAAAAAAkfAAAAAAAAAAAAAAkfAAAAAAAACh8AAAAAAAAAAAAACh8AAAAAAAALHwAAAAAAAAAAAAALHwAAAAAAAAwfAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAABh8AAAAAAAAGHwAAAAAAAAAAAAAAAPC/"
 						],
 						[
 							17,
 							1,
 							"insert",
 							{
-								"characters": "10"
+								"characters": "yToggle."
 							},
-							"AgAAAPUeAAAAAAAA9h4AAAAAAAAAAAAA9h4AAAAAAAD3HgAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAA9R4AAAAAAAD1HgAAAAAAAAAAAAAAAPC/"
+							"CAAAAAwfAAAAAAAADR8AAAAAAAAAAAAADR8AAAAAAAAOHwAAAAAAAAAAAAAOHwAAAAAAAA8fAAAAAAAAAAAAAA8fAAAAAAAAEB8AAAAAAAAAAAAAEB8AAAAAAAARHwAAAAAAAAAAAAARHwAAAAAAABIfAAAAAAAAAAAAABIfAAAAAAAAEx8AAAAAAAAAAAAAEx8AAAAAAAAUHwAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAADB8AAAAAAAAMHwAAAAAAAAAAAAAAAPC/"
 						],
 						[
-							20,
-							3,
-							"left_delete",
-							null,
-							"AwAAALEdAAAAAAAAsR0AAAAAAAABAAAAMLAdAAAAAAAAsB0AAAAAAAABAAAAMa8dAAAAAAAArx0AAAAAAAABAAAALQ",
-							"AQAAAAAAAAABAAAAsh0AAAAAAACyHQAAAAAAAAAAAAAAAPC/"
+							18,
+							1,
+							"insert",
+							{
+								"characters": "sh"
+							},
+							"AgAAABQfAAAAAAAAFR8AAAAAAAAAAAAAFR8AAAAAAAAWHwAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAFB8AAAAAAAAUHwAAAAAAAAAAAAAAAPC/"
 						]
+					]
+				},
+				{
+					"file": "/home/niels/Desktop/Apps/Linux/BacklightControls/DisplayToggle.sh",
+					"settings":
+					{
+						"buffer_size": 249,
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
 					]
 				},
 				{
 					"file": "/home/niels/.config/hypr/hypridle.conf",
 					"settings":
 					{
-						"buffer_size": 953,
+						"buffer_size": 856,
 						"encoding": "UTF-8",
 						"line_ending": "Unix"
 					},
 					"undo_stack":
 					[
 						[
-							1,
-							6,
-							"right_delete",
-							null,
-							"BgAAAAAAAAAAAAAAAAAAAAAAAAABAAAAYAAAAAAAAAAAAAAAAAAAAAABAAAAYgAAAAAAAAAAAAAAAAAAAAABAAAAYQAAAAAAAAAAAAAAAAAAAAABAAAAcwAAAAAAAAAAAAAAAAAAAAABAAAAaAAAAAAAAAAAAAAAAAAAAAABAAAACg",
-							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
-						],
-						[
-							4,
-							1,
-							"left_delete",
-							null,
-							"AQAAALcDAAAAAAAAtwMAAAAAAAABAAAACg",
-							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAC4AwAAAAAAALgDAAAAAAAAAAAAAAAA8L8"
-						],
-						[
 							7,
 							1,
-							"insert",
-							{
-								"characters": "3"
-							},
-							"AQAAAC8DAAAAAAAAMAMAAAAAAAAAAAAA",
-							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAvAwAAAAAAAC8DAAAAAAAAAAAAAAAA8L8"
+							"paste",
+							null,
+							"AgAAAH4CAAAAAAAAlwIAAAAAAAAAAAAAlwIAAAAAAACXAgAAAAAAAEkAAABweXRob24zIC9ob21lL25pZWxzL0Rlc2t0b3AvQXBwcy9MaW51eC9CYWNrbGlnaHRDb250cm9scy9icmlnaHRuZXNzdG9nLnB5",
+							"AQAAAAAAAAABAAAAxwIAAAAAAAB+AgAAAAAAAAAAAAAAAPC/"
 						],
 						[
 							10,
 							1,
+							"paste",
+							null,
+							"AgAAAPoCAAAAAAAAEwMAAAAAAAAAAAAAEwMAAAAAAAATAwAAAAAAAEkAAABweXRob24zIC9ob21lL25pZWxzL0Rlc2t0b3AvQXBwcy9MaW51eC9CYWNrbGlnaHRDb250cm9scy9icmlnaHRuZXNzdG9nLnB5",
+							"AQAAAAAAAAABAAAAQwMAAAAAAAD6AgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							11,
+							2,
+							"left_delete",
+							null,
+							"AgAAABIDAAAAAAAAEgMAAAAAAAABAAAAZhEDAAAAAAAAEQMAAAAAAAABAAAAZg",
+							"AQAAAAAAAAABAAAAEwMAAAAAAAATAwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							12,
+							1,
 							"insert",
 							{
-								"characters": "3"
+								"characters": "n"
 							},
-							"AQAAAIQCAAAAAAAAhQIAAAAAAAAAAAAA",
-							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAACEAgAAAAAAAIQCAAAAAAAAAAAAAAAA8L8"
-						]
-					]
-				},
-				{
-					"file": "/home/niels/.config/hypr/hyprlock.conf",
-					"settings":
-					{
-						"buffer_size": 2687,
-						"line_ending": "Unix"
-					}
-				},
-				{
-					"file": "/home/niels/Desktop/Apps/Linux/BacklightControls/brightnessold",
-					"settings":
-					{
-						"buffer_size": 4,
-						"line_ending": "Unix"
-					},
-					"undo_stack":
-					[
-						[
-							1,
-							1,
-							"revert",
-							null,
-							"AgAAAAAAAAAAAAAAAAAAAAAAAAAEAAAANTA0CgAAAAAAAAAABAAAAAAAAAAAAAAA",
-							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+							"AQAAABEDAAAAAAAAEgMAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAEQMAAAAAAAARAwAAAAAAAAAAAAAAAPC/"
 						],
 						[
+							15,
+							1,
+							"insert",
+							{
+								"characters": "10"
+							},
+							"AwAAAD8CAAAAAAAAQAIAAAAAAAAAAAAAQAIAAAAAAABAAgAAAAAAAAIAAAA0NUACAAAAAAAAQQIAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAQQIAAAAAAAA/AgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							16,
 							2,
-							1,
-							"revert",
+							"left_delete",
 							null,
-							"AgAAAAAAAAAAAAAAAAAAAAAAAAAEAAAANTA0CgAAAAAAAAAABAAAAAAAAAAAAAAA",
-							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+							"AgAAAEACAAAAAAAAQAIAAAAAAAABAAAAMD8CAAAAAAAAPwIAAAAAAAABAAAAMQ",
+							"AQAAAAAAAAABAAAAQQIAAAAAAABBAgAAAAAAAAAAAAAAAPC/"
 						],
 						[
-							3,
+							17,
 							1,
-							"revert",
-							null,
-							"AgAAAAAAAAAAAAAAAAAAAAAAAAAEAAAANTA0CgAAAAAAAAAABAAAAAAAAAAAAAAA",
-							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+							"insert",
+							{
+								"characters": "45"
+							},
+							"AgAAAD8CAAAAAAAAQAIAAAAAAAAAAAAAQAIAAAAAAABBAgAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAPwIAAAAAAAA/AgAAAAAAAAAAAAAAAPC/"
 						],
 						[
-							4,
-							1,
-							"revert",
-							null,
-							"BAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAANTA0CgAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA",
-							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							1,
-							1,
-							"revert",
-							null,
-							"AgAAAAAAAAAAAAAAAAAAAAAAAAAEAAAANjQwCgAAAAAAAAAABAAAAAAAAAAAAAAA",
-							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
-						],
-						[
+							18,
 							2,
-							1,
-							"revert",
+							"left_delete",
 							null,
-							"AwAAAAAAAAAAAAAAAAAAAAAAAAAEAAAANjQwCgAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA",
-							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+							"AgAAAEACAAAAAAAAQAIAAAAAAAABAAAANT8CAAAAAAAAPwIAAAAAAAABAAAANA",
+							"AQAAAAAAAAABAAAAQQIAAAAAAABBAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							19,
+							1,
+							"insert",
+							{
+								"characters": "10"
+							},
+							"AgAAAD8CAAAAAAAAQAIAAAAAAAAAAAAAQAIAAAAAAABBAgAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAPwIAAAAAAAA/AgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							20,
+							2,
+							"left_delete",
+							null,
+							"AgAAAEACAAAAAAAAQAIAAAAAAAABAAAAMD8CAAAAAAAAPwIAAAAAAAABAAAAMQ",
+							"AQAAAAAAAAABAAAAQQIAAAAAAABBAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							21,
+							1,
+							"insert",
+							{
+								"characters": "45"
+							},
+							"AgAAAD8CAAAAAAAAQAIAAAAAAAAAAAAAQAIAAAAAAABBAgAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAPwIAAAAAAAA/AgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							39,
+							1,
+							"insert",
+							{
+								"characters": "&"
+							},
+							"AQAAAJkCAAAAAAAAmgIAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAmQIAAAAAAACZAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							50,
+							1,
+							"left_delete",
+							null,
+							"AQAAAJkCAAAAAAAAmQIAAAAAAAABAAAAJg",
+							"AQAAAAAAAAABAAAAmgIAAAAAAACaAgAAAAAAAAAAAAAAAPC/"
 						]
 					]
 				}
@@ -731,12 +645,25 @@
 			},
 			"file_history":
 			[
+				"/home/niels/.config/ags/services/configuration.js",
+				"/home/niels/.config/ags/functions/globals.js",
+				"/home/niels/.config/ags/functions/monitor_configuration.js",
+				"/home/niels/.config/ags/colors.json",
+				"/home/niels/.config/ags/config.json",
+				"/home/niels/.config/ags/config.js",
+				"/home/niels/.config/ags/init.js",
+				"/home/niels/.config/ags/windows.js",
+				"/home/niels/Desktop/Apps/Linux/BacklightControls/brightnessold",
+				"/home/niels/.config/hypr/hyprlock.conf",
+				"/home/niels/.config/hypr/hypridle.conf",
+				"/home/niels/Desktop/Apps/Linux/BacklightControls/brightnesstog.py",
+				"/home/niels/.config/hypr/hyprland.conf",
+				"/home/niels/.config/ags/tsconfig.json",
 				"/sys/class/backlight/intel_backlight/brightness",
 				"/home/niels/.config/ags/widget/systray/SysTray.js",
 				"/home/niels/.config/ags/widget/bar/Window.js",
 				"/home/niels/Documents/Coding&Design/Python/V-Plan_2.0/users.json",
 				"/home/niels/.config/ags/style/widgets/systray.scss",
-				"/home/niels/.config/hypr/hyprland.conf",
 				"/home/niels/.config/ags/widget/PanelButton.js",
 				"/home/niels/Downloads/dotfiles-desktop/ags/style/main.scss",
 				"/home/niels/Downloads/dotfiles-desktop/ags/style/colors.scss",
@@ -752,15 +679,10 @@
 				"/home/niels/Downloads/dotfiles-desktop/ags/vars.js",
 				"/home/niels/Downloads/dotfiles-desktop/ags/init.js",
 				"/home/niels/.config/ags/vars.js",
-				"/home/niels/.config/ags/windows.js",
-				"/home/niels/.config/ags/init.js",
 				"/home/niels/.config/ags/services/asusctl.ts",
 				"/home/niels/.config/ags/widget/system_indicators/SystemIndicators.ts",
 				"/home/niels/Downloads/aylur-dotfiles-main/ags/widget/bar/buttons/SystemIndicators.ts",
-				"/home/niels/.config/ags/config.json",
-				"/home/niels/.config/ags/tsconfig.json",
 				"/home/niels/.config/ags/style/widgets/osd.scss",
-				"/home/niels/.config/ags/config.js",
 				"/home/niels/.config/ags/style/vars.scss",
 				"/home/niels/.config/ags/types/variable.d.ts",
 				"/home/niels/.config/ags/types/ags.d.ts",
@@ -776,7 +698,6 @@
 				"/home/niels/Downloads/GitToken",
 				"/home/niels/.config/ags/colortest/killua-wallpaper_dark_ohneStern.png.json",
 				"/home/niels/.config/.gitignore",
-				"/home/niels/.config/ags/colors.json",
 				"/home/niels/Desktop/Apps/Linux/StundenPlanFetchBash/owner_lessons.txt",
 				"/home/niels/Desktop/Apps/Linux/StundenPlanFetchBash/.pdf_creds.txt",
 				"/home/niels/Desktop/Apps/Linux/StundenPlanFetchBash/settings.txt",
@@ -824,8 +745,6 @@
 				"/home/niels/.config/ags/widget/client/PanelButton.js",
 				"/home/niels/.config/ags/widget/workspaces/PanelButton.js",
 				"/home/niels/.config/ags/widget/hyprsplash/Window.js",
-				"/home/niels/.config/ags/functions/globals.js",
-				"/home/niels/.config/ags/functions/monitor_configuration.js",
 				"/home/niels/.config/ags/widget/control_center/buttons/color_picker.js",
 				"/home/niels/.config/ags/widget/control_center/buttons/dark_mode.js",
 				"/home/niels/.config/ags/widget/powermenu/PowerMenuWindow.js",
@@ -838,7 +757,6 @@
 				"/home/niels/.config/ags/style/widgets/applauncher.scss",
 				"/home/niels/.config/ags/functions/theme/ags.js",
 				"/home/niels/.config/ags/functions/theme/init.js",
-				"/home/niels/.config/ags/services/configuration.js",
 				"/home/niels/.config/matugen/config.toml",
 				"/home/niels/Downloads/libadwaita-without-adwaita-git/theming_patch.diff",
 				"/home/niels/.config/ags/functions/theme/matugen.js",
@@ -865,6 +783,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"light",
 					"screensh",
 					"AppLau",
 					"brigh",
@@ -899,91 +818,59 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/home/niels/Desktop/Apps/Linux/BacklightControls/brightnesstog.py",
+							"file": "/home/niels/.config/hypr/hyprland.conf",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 776,
+								"buffer_size": 9250,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										130,
-										130
+										7958,
+										7958
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/Python/Python.sublime-syntax",
+									"syntax": "Packages/Text/Plain text.tmLanguage",
 									"tab_size": 4,
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 216.0,
+								"translation.y": 5484.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 3,
+							"stack_index": 2,
 							"stack_multiselect": false,
 							"type": "text"
 						},
 						{
 							"buffer": 1,
-							"file": "/home/niels/.config/hypr/hyprland.conf",
-							"selected": true,
+							"file": "/home/niels/Desktop/Apps/Linux/BacklightControls/DisplayToggle.sh",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 9097,
+								"buffer_size": 249,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										7599,
-										7599
+										181,
+										181
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"syntax": "Packages/ShellScript/Bash.sublime-syntax",
 									"tab_size": 4,
 									"translate_tabs_to_spaces": true
 								},
-								"translation.x": 0.0,
-								"translation.y": 4830.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"stack_multiselect": false,
-							"type": "text"
-						},
-						{
-							"buffer": 2,
-							"file": "/home/niels/.config/hypr/hypridle.conf",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 953,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										645,
-										645
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Text/Plain text.tmLanguage",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": true
-								},
-								"translation.x": 0.0,
+								"translation.x": 3.0,
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
@@ -992,20 +879,21 @@
 							"type": "text"
 						},
 						{
-							"buffer": 3,
-							"file": "/home/niels/.config/hypr/hyprlock.conf",
+							"buffer": 2,
+							"file": "/home/niels/.config/hypr/hypridle.conf",
+							"selected": true,
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 2687,
+								"buffer_size": 856,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										0,
-										0
+										665,
+										665
 									]
 								],
 								"settings":
@@ -1015,39 +903,10 @@
 									"translate_tabs_to_spaces": true
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 198.0,
 								"zoom_level": 1.0
 							},
-							"stack_index": 2,
-							"stack_multiselect": false,
-							"type": "text"
-						},
-						{
-							"buffer": 4,
-							"file": "/home/niels/Desktop/Apps/Linux/BacklightControls/brightnessold",
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 4,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 4,
+							"stack_index": 0,
 							"stack_multiselect": false,
 							"type": "text"
 						}
@@ -1090,7 +949,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,1,0,0,0,0,0,1876,975,1920,1080,0",
+			"position": "0,1,0,0,0,0,0,931,480,1920,1080,0",
 			"project": "",
 			"replace":
 			{
