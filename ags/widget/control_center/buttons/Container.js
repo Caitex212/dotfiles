@@ -3,7 +3,8 @@ import Wallpaper from "./wallpaper.js";
 import DarkMode from "./dark_mode.js";
 import Screenshot from "./screenshot.js";
 import ScreenRecord from "./screen_record.js";
-import ColorPicker from "./color_picker.js";
+//import ColorPicker from "./color_picker.js";
+import HyprIdle from "./hypridle_timer.js";
 import MicAccess from "./mic_access.js";
 import PowerMenu from "./power_menu.js";
 
@@ -22,7 +23,7 @@ export default () =>
       Widget.Box({
         spacing: 8,
         homogeneous: true,
-        children: [ScreenRecord(), ColorPicker(), MicAccess(), PowerMenu()],
+        children: [ScreenRecord(), HyprIdle(), MicAccess(), PowerMenu()], //ColorPicker(),
       }),
     ],
   });
