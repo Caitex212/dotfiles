@@ -4,7 +4,7 @@
 FILE="/home/niels/.config/hypr/hypridle.conf"
 
 # Define the timeout values in order
-TIMEOUT_VALUES=(5 30 45 60 300 600)
+TIMEOUT_VALUES=(60 120 300 600)
 
 # Read current timeout value from the file
 CURRENT_TIMEOUT=$(grep -Po '^ *timeout = \K\d+' "$FILE")
@@ -27,6 +27,7 @@ awk -v new_timeout="$NEW_TIMEOUT" '
     }
     { print }
 ' "$FILE" > "$FILE.tmp" && mv "$FILE.tmp" "$FILE"
+notify-send "Timeout: $NEW_TIMEOUT s"
 
 killall hypridle
 hypridle
