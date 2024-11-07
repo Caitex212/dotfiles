@@ -1,0 +1,1144 @@
+{
+	"file_history":
+	[
+		"/home/niels/.config/wofi/style.css",
+		"/home/niels/.config/hypr/hypridle.conf",
+		"/home/niels/.config/ags/colortest/httyd3-light-fury-toothless.jpg.json",
+		"/home/niels/.config/ags/colortest/.json",
+		"/home/niels/.config/hypr/hyprland.conf",
+		"/home/niels/.config/ags/style/vars.scss",
+		"/home/niels/install.log",
+		"/home/niels/Downloads/users.json",
+		"/home/niels/.var/app/org.prismlauncher.PrismLauncher/data/PrismLauncher/instances/Fabulously Optimized/.minecraft/resourcepacks/Alacrity/pack.mcmeta",
+		"/home/niels/.config/ags/widget/control_center/buttons/hypridle_file.sh",
+		"/home/niels/.config/spicetify/config-xpui.ini",
+		"/home/niels/Desktop/Apps/Linux/StundenplanFetchBash/settings.txt",
+		"/home/niels/Desktop/Apps/Linux/StundenplanFetchBash/owner_lessons.txt",
+		"/home/niels/Desktop/Apps/Linux/StundenplanFetchBash/.pdf_creds.txt",
+		"/home/niels/.config/ags/widget/network/Bluetooth.js",
+		"/home/niels/.config/ags/widget/workspaces/PanelButton.js",
+		"/home/niels/Desktop/Apps/Linux/StundenplanFetchBash/stundenplanfetch.sh",
+		"/home/niels/Downloads/ESP32-RC/joy.py",
+		"/home/niels/Documents/Coding&Design/Python/laptimer/NordLaps_V5.py",
+		"/home/niels/Documents/Coding&Design/Python/V-Plan_2.0/.gitignore",
+		"/home/niels/.config/ags/widget/control_center/buttons/Container.js",
+		"/home/niels/.gitconfig",
+		"/home/niels/.config/ags/widget/control_center/buttons/hypridle_timer.js",
+		"/home/niels/.config/ags/widget/control_center/buttons/color_picker.js",
+		"/home/niels/.config/ags/widget/control_center/buttons/dark_mode.js",
+		"/home/niels/Downloads/message.txt",
+		"/home/niels/.config/hypr/hyprlock.conf",
+		"/home/niels/Desktop/Apps/Linux/BacklightControls/DisplayToggle.sh",
+		"/home/niels/.config/ags/widget/control_center/Window.js",
+		"/home/niels/.config/ags/services/configuration.js",
+		"/home/niels/.config/ags/functions/globals.js",
+		"/home/niels/.config/ags/functions/monitor_configuration.js",
+		"/home/niels/.config/ags/colors.json",
+		"/home/niels/.config/ags/config.json",
+		"/home/niels/.config/ags/config.js",
+		"/home/niels/.config/ags/init.js",
+		"/home/niels/.config/ags/windows.js",
+		"/home/niels/Desktop/Apps/Linux/BacklightControls/brightnessold",
+		"/home/niels/Desktop/Apps/Linux/BacklightControls/brightnesstog.py",
+		"/home/niels/.config/ags/tsconfig.json",
+		"/sys/class/backlight/intel_backlight/brightness",
+		"/home/niels/.config/ags/widget/systray/SysTray.js",
+		"/home/niels/.config/ags/widget/bar/Window.js",
+		"/home/niels/Documents/Coding&Design/Python/V-Plan_2.0/users.json",
+		"/home/niels/.config/ags/style/widgets/systray.scss",
+		"/home/niels/.config/ags/widget/PanelButton.js",
+		"/home/niels/Downloads/dotfiles-desktop/ags/style/main.scss",
+		"/home/niels/Downloads/dotfiles-desktop/ags/style/colors.scss",
+		"/home/niels/Downloads/dotfiles-desktop/ags/style/common.scss",
+		"/home/niels/Downloads/dotfiles-desktop/ags/style/functions.scss",
+		"/home/niels/Downloads/dotfiles-desktop/ags/style/vars.scss",
+		"/home/niels/Downloads/dotfiles-desktop/ags/widget/bar/Window.js",
+		"/home/niels/Downloads/dotfiles-desktop/ags/functions/utils.js",
+		"/home/niels/Downloads/dotfiles-desktop/ags/functions/wallpaper.js",
+		"/home/niels/Downloads/dotfiles-desktop/ags/windows.js",
+		"/home/niels/Downloads/dotfiles-desktop/ags/config.js",
+		"/home/niels/Downloads/dotfiles-desktop/ags/vars.js",
+		"/home/niels/Downloads/dotfiles-desktop/ags/init.js",
+		"/home/niels/.config/ags/vars.js",
+		"/home/niels/.config/ags/services/asusctl.ts",
+		"/home/niels/.config/ags/widget/system_indicators/SystemIndicators.ts",
+		"/home/niels/Downloads/aylur-dotfiles-main/ags/widget/bar/buttons/SystemIndicators.ts",
+		"/home/niels/.config/ags/style/widgets/osd.scss",
+		"/home/niels/.config/ags/types/variable.d.ts",
+		"/home/niels/.config/ags/types/ags.d.ts",
+		"/home/niels/.config/ags/style/widgets/wallpaper-picker.scss",
+		"/home/niels/.config/ags/style/widgets/bar.scss",
+		"/home/niels/.config/ags/style/functions.scss",
+		"/home/niels/.config/ags/style/widgets/control-center.scss",
+		"/home/niels/.config/ags/style/main.scss",
+		"/home/niels/.config/ags/style/common.scss",
+		"/home/niels/.config/ags/style/colors.scss",
+		"/home/niels/.config/ags/functions/wallpaper.js",
+		"/home/niels/.config/ags/colortest/matugenchooser.sh",
+		"/home/niels/Downloads/GitToken",
+		"/home/niels/.config/ags/colortest/killua-wallpaper_dark_ohneStern.png.json",
+		"/home/niels/.config/.gitignore",
+		"/home/niels/Desktop/Apps/Linux/StundenPlanFetchBash/owner_lessons.txt",
+		"/home/niels/Desktop/Apps/Linux/StundenPlanFetchBash/.pdf_creds.txt",
+		"/home/niels/Desktop/Apps/Linux/StundenPlanFetchBash/settings.txt",
+		"/home/niels/.config/ags/widget/battery/Window.js",
+		"/home/niels/.config/ags/widget/battery/PanelButton.js",
+		"/home/niels/Downloads/aylur-dotfiles-main/ags/widget/bar/buttons/SysTray.ts",
+		"/home/niels/Downloads/aylur-dotfiles-main/ags/widget/bar/Bar.ts",
+		"/home/niels/.config/ags/widget/audio/PanelButton.js",
+		"/home/niels/.config/ags/widget/trayicons/PanelButton.js",
+		"/home/niels/.config/ags/widget/applauncher/PanelButton.js",
+		"/home/niels/.config/ags/widget/applauncher/Window.js",
+		"/home/niels/.config/ags/widget/bar/buttons/SysTray.ts",
+		"/home/niels/.config/ags/widget/wallpaper_picker/Window.js",
+		"/home/niels/.config/ags/colortest/Grello3.jpg.json",
+		"/home/niels/.config/ags/colortest/Grello2.png.json",
+		"/home/niels/.config/ags/colortest/Grello.jpg.json",
+		"/home/niels/.config/ags/colortest/grello2.png.json",
+		"/home/niels/.config/ags/colortest/nordschleife.png.json",
+		"/home/niels/.config/ags/colortest/killua-wallpaper_dark.png.json",
+		"/home/niels/.config/ags/colortest/bmws.png.json",
+		"/home/niels/.config/gtk-3.0/settings.ini",
+		"/usr/share/themes/adw-gtk3-dark/gtk-3.0/gtk-dark.css",
+		"/home/niels/.config/ags/style/widgets/workspaces.scss",
+		"/home/niels/.config/ags/style/widgets/battery-popup.scss",
+		"/home/niels/.config/ags/style/widgets/audio-popup.scss",
+		"/home/niels/.config/ags/widget/control_center/buttons/screen_record.js",
+		"/home/niels/.config/ags/services/brightness.js",
+		"/home/niels/.config/ags/widget/osd/ProgressOsd.js",
+		"/home/niels/.config/ags/widget/osd/Progress.js",
+		"/home/niels/.config/ags/widget/network_speed/PanelButton.js",
+		"/home/niels/.config/ags/widget/control_center/Brightness.js",
+		"/home/niels/.config/ags/widget/control_center/buttons/screenshot.js",
+		"/home/niels/.config/ags/widget/control_center/buttons/dnd.js",
+		"/home/niels/.config/ags/widget/control_center/Notifications.js",
+		"/home/niels/.config/ags/widget/control_center/PanelButton.js",
+		"/home/niels/.config/ags/style/widgets/network-speed.scss",
+		"/home/niels/.config/ags/services/network_speed.js",
+		"/home/niels/.config/ags/functions/utils.js",
+		"/home/niels/.config/ags/widget/network/PanelButton.js",
+		"/home/niels/.config/ags/widget/network/Wifi.js",
+		"/home/niels/.config/ags/widget/network/Window.js",
+		"/home/niels/.config/ags/widget/client/PanelButton.js",
+		"/home/niels/.config/ags/widget/hyprsplash/Window.js",
+		"/home/niels/.config/ags/widget/powermenu/PowerMenuWindow.js",
+		"/home/niels/.config/ags/widget/system_monitor/Window.js",
+		"/home/niels/.config/ags/widget/PopupWindow.js",
+		"/home/niels/.config/ags/services/powermenu.js",
+		"/home/niels/.config/ags/functions/theme/gtk.js",
+		"/home/package.json",
+		"/home/package-lock.json",
+		"/home/niels/.config/ags/style/widgets/applauncher.scss"
+	],
+	"folder_history":
+	[
+	],
+	"last_version": 4180,
+	"last_window_id": 4,
+	"log_indexing": false,
+	"next_update_check": 1731052260,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 509.0,
+		"new_window_maximized": true,
+		"new_window_position":
+		[
+			0.0,
+			27.0
+		],
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"CU",
+						"CURRENT_TIMEOUT"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/niels/.config/ags/widget/system_monitor/Window.js",
+				"/home/niels/Documents/Coding&Design/Python/V-Plan_2.0/data/schedule_updates.json",
+				"/home/niels/.config/hypr/hyprland.conf",
+				"/home/niels/.config/hypr/hypridle.conf",
+				"/home/niels/.config/wofi/style.css",
+				"/home/niels/.config/ags/colortest/httyd3-light-fury-toothless.jpg.json",
+				"/home/niels/.config/ags/colortest/.json",
+				"/home/niels/.config/ags/style/vars.scss",
+				"/home/niels/install.log",
+				"/home/niels/Downloads/users.json",
+				"/home/niels/.var/app/org.prismlauncher.PrismLauncher/data/PrismLauncher/instances/Fabulously Optimized/.minecraft/resourcepacks/Alacrity/pack.mcmeta",
+				"/home/niels/.config/ags/widget/control_center/buttons/hypridle_file.sh",
+				"/home/niels/.config/spicetify/config-xpui.ini",
+				"/home/niels/Desktop/Apps/Linux/StundenplanFetchBash/settings.txt",
+				"/home/niels/Desktop/Apps/Linux/StundenplanFetchBash/owner_lessons.txt",
+				"/home/niels/Desktop/Apps/Linux/StundenplanFetchBash/.pdf_creds.txt",
+				"/home/niels/.config/ags/widget/network/Bluetooth.js",
+				"/home/niels/.config/ags/widget/workspaces/PanelButton.js",
+				"/home/niels/Desktop/Apps/Linux/StundenplanFetchBash/stundenplanfetch.sh",
+				"/home/niels/Downloads/ESP32-RC/joy.py",
+				"/home/niels/Documents/Coding&Design/Python/laptimer/NordLaps_V5.py",
+				"/home/niels/Documents/Coding&Design/Python/V-Plan_2.0/.gitignore",
+				"/home/niels/.config/ags/widget/control_center/buttons/Container.js",
+				"/home/niels/.gitconfig",
+				"/home/niels/.config/ags/widget/control_center/buttons/hypridle_timer.js",
+				"/home/niels/.config/ags/widget/control_center/buttons/color_picker.js",
+				"/home/niels/.config/ags/widget/control_center/buttons/dark_mode.js",
+				"/home/niels/Downloads/message.txt",
+				"/home/niels/.config/hypr/hyprlock.conf",
+				"/home/niels/Desktop/Apps/Linux/BacklightControls/DisplayToggle.sh",
+				"/home/niels/.config/ags/widget/control_center/Window.js",
+				"/home/niels/.config/ags/services/configuration.js",
+				"/home/niels/.config/ags/functions/globals.js",
+				"/home/niels/.config/ags/functions/monitor_configuration.js",
+				"/home/niels/.config/ags/colors.json",
+				"/home/niels/.config/ags/config.json",
+				"/home/niels/.config/ags/config.js",
+				"/home/niels/.config/ags/init.js",
+				"/home/niels/.config/ags/windows.js",
+				"/home/niels/Desktop/Apps/Linux/BacklightControls/brightnessold",
+				"/home/niels/Desktop/Apps/Linux/BacklightControls/brightnesstog.py",
+				"/home/niels/.config/ags/tsconfig.json",
+				"/sys/class/backlight/intel_backlight/brightness",
+				"/home/niels/.config/ags/widget/systray/SysTray.js",
+				"/home/niels/.config/ags/widget/bar/Window.js",
+				"/home/niels/Documents/Coding&Design/Python/V-Plan_2.0/users.json",
+				"/home/niels/.config/ags/style/widgets/systray.scss",
+				"/home/niels/.config/ags/widget/PanelButton.js",
+				"/home/niels/Downloads/dotfiles-desktop/ags/style/main.scss",
+				"/home/niels/Downloads/dotfiles-desktop/ags/style/colors.scss",
+				"/home/niels/Downloads/dotfiles-desktop/ags/style/common.scss",
+				"/home/niels/Downloads/dotfiles-desktop/ags/style/functions.scss",
+				"/home/niels/Downloads/dotfiles-desktop/ags/style/vars.scss",
+				"/home/niels/Downloads/dotfiles-desktop/ags/widget/bar/Window.js",
+				"/home/niels/Downloads/dotfiles-desktop/ags/functions/utils.js",
+				"/home/niels/Downloads/dotfiles-desktop/ags/functions/wallpaper.js",
+				"/home/niels/Downloads/dotfiles-desktop/ags/windows.js",
+				"/home/niels/Downloads/dotfiles-desktop/ags/config.js",
+				"/home/niels/Downloads/dotfiles-desktop/ags/vars.js",
+				"/home/niels/Downloads/dotfiles-desktop/ags/init.js",
+				"/home/niels/.config/ags/vars.js",
+				"/home/niels/.config/ags/services/asusctl.ts",
+				"/home/niels/.config/ags/widget/system_indicators/SystemIndicators.ts",
+				"/home/niels/Downloads/aylur-dotfiles-main/ags/widget/bar/buttons/SystemIndicators.ts",
+				"/home/niels/.config/ags/style/widgets/osd.scss",
+				"/home/niels/.config/ags/types/variable.d.ts",
+				"/home/niels/.config/ags/types/ags.d.ts",
+				"/home/niels/.config/ags/style/widgets/wallpaper-picker.scss",
+				"/home/niels/.config/ags/style/widgets/bar.scss",
+				"/home/niels/.config/ags/style/functions.scss",
+				"/home/niels/.config/ags/style/widgets/control-center.scss",
+				"/home/niels/.config/ags/style/main.scss",
+				"/home/niels/.config/ags/style/common.scss",
+				"/home/niels/.config/ags/style/colors.scss",
+				"/home/niels/.config/ags/functions/wallpaper.js",
+				"/home/niels/.config/ags/colortest/matugenchooser.sh",
+				"/home/niels/Downloads/GitToken",
+				"/home/niels/.config/ags/colortest/killua-wallpaper_dark_ohneStern.png.json",
+				"/home/niels/.config/.gitignore",
+				"/home/niels/Desktop/Apps/Linux/StundenPlanFetchBash/owner_lessons.txt",
+				"/home/niels/Desktop/Apps/Linux/StundenPlanFetchBash/.pdf_creds.txt",
+				"/home/niels/Desktop/Apps/Linux/StundenPlanFetchBash/settings.txt",
+				"/home/niels/.config/ags/widget/battery/Window.js",
+				"/home/niels/.config/ags/widget/battery/PanelButton.js",
+				"/home/niels/Downloads/aylur-dotfiles-main/ags/widget/bar/buttons/SysTray.ts",
+				"/home/niels/Downloads/aylur-dotfiles-main/ags/widget/bar/Bar.ts",
+				"/home/niels/.config/ags/widget/audio/PanelButton.js",
+				"/home/niels/.config/ags/widget/trayicons/PanelButton.js",
+				"/home/niels/.config/ags/widget/applauncher/PanelButton.js",
+				"/home/niels/.config/ags/widget/applauncher/Window.js",
+				"/home/niels/.config/ags/widget/bar/buttons/SysTray.ts",
+				"/home/niels/.config/ags/widget/wallpaper_picker/Window.js",
+				"/home/niels/.config/ags/colortest/Grello3.jpg.json",
+				"/home/niels/.config/ags/colortest/Grello2.png.json",
+				"/home/niels/.config/ags/colortest/Grello.jpg.json",
+				"/home/niels/.config/ags/colortest/grello2.png.json",
+				"/home/niels/.config/ags/colortest/nordschleife.png.json",
+				"/home/niels/.config/ags/colortest/killua-wallpaper_dark.png.json",
+				"/home/niels/.config/ags/colortest/bmws.png.json",
+				"/home/niels/.config/gtk-3.0/settings.ini",
+				"/usr/share/themes/adw-gtk3-dark/gtk-3.0/gtk-dark.css",
+				"/home/niels/.config/ags/style/widgets/workspaces.scss",
+				"/home/niels/.config/ags/style/widgets/battery-popup.scss",
+				"/home/niels/.config/ags/style/widgets/audio-popup.scss",
+				"/home/niels/.config/ags/widget/control_center/buttons/screen_record.js",
+				"/home/niels/.config/ags/services/brightness.js",
+				"/home/niels/.config/ags/widget/osd/ProgressOsd.js",
+				"/home/niels/.config/ags/widget/osd/Progress.js",
+				"/home/niels/.config/ags/widget/network_speed/PanelButton.js",
+				"/home/niels/.config/ags/widget/control_center/Brightness.js",
+				"/home/niels/.config/ags/widget/control_center/buttons/screenshot.js",
+				"/home/niels/.config/ags/widget/control_center/buttons/dnd.js",
+				"/home/niels/.config/ags/widget/control_center/Notifications.js",
+				"/home/niels/.config/ags/widget/control_center/PanelButton.js",
+				"/home/niels/.config/ags/style/widgets/network-speed.scss",
+				"/home/niels/.config/ags/services/network_speed.js",
+				"/home/niels/.config/ags/functions/utils.js",
+				"/home/niels/.config/ags/widget/network/PanelButton.js",
+				"/home/niels/.config/ags/widget/network/Wifi.js",
+				"/home/niels/.config/ags/widget/network/Window.js",
+				"/home/niels/.config/ags/widget/client/PanelButton.js",
+				"/home/niels/.config/ags/widget/hyprsplash/Window.js",
+				"/home/niels/.config/ags/widget/powermenu/PowerMenuWindow.js",
+				"/home/niels/.config/ags/widget/PopupWindow.js",
+				"/home/niels/.config/ags/services/powermenu.js",
+				"/home/niels/.config/ags/functions/theme/gtk.js",
+				"/home/package.json",
+				"/home/package-lock.json"
+			],
+			"find":
+			{
+				"height": 29.0
+			},
+			"find_in_files":
+			{
+				"height": 113.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"color",
+					"exec-",
+					"layou",
+					"ser",
+					"displ",
+					"ser",
+					"scroll",
+					"sens",
+					"light",
+					"screensh",
+					"AppLau",
+					"brigh",
+					"icon",
+					"icons",
+					"icon",
+					"import",
+					"appla",
+					"scree",
+					"icon",
+					"ags"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 29.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 54.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 960.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"CU",
+						"CURRENT_TIMEOUT"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "cgeneral {\n    lock_cmd = notify-send \"lock!\"          # dbus/sysd lock command (loginctl lock-session)\n    unlock_cmd = notify-send \"unlock!\"      # same as above, but unlock\n    before_sleep_cmd = notify-send \"Zzz\"    # command ran before sleep\n    after_sleep_cmd = notify-send \"Awake!\"  # command ran after sleep\n    ignore_dbus_inhibit = false             # whether to ignore dbus-sent idle-inhibit requests (used by e.g. firefox or steam)\n    ignore_systemd_inhibit = false          # whether to ignore systemd-inhibit --what=idle inhibitors\n}\n\nlistener {\ntimeout = 600 # in seconds\n    on-timeout = notify-send \"You are idle!\" & hyprctl dispatch dpms off & hyprlock # command to run when timeout has passed\n    on-resume = notify-send \"Welcome back!\" & hyprctl dispatch dpms on # command to run when activity is detected after timeout has fired.\n}\n",
+					"file": "/home/niels/.config/hypr/hypridle.conf",
+					"file_size": 854,
+					"file_write_time": 133640279560000000,
+					"settings":
+					{
+						"buffer_size": 855,
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							1,
+							1,
+							"insert",
+							{
+								"characters": "c"
+							},
+							"AQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA",
+							"BgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvw"
+						]
+					]
+				},
+				{
+					"file": "/home/niels/.config/hypr/hyprland.conf",
+					"settings":
+					{
+						"buffer_size": 9382,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "{\n    \"Montag (Plan folgt)\": {\n        \"pdf_link\": \"No PDF available\",\n        \"date\": \"No update\",\n        \"time\": \"\"\n    },\n    \"Dienstag\": {\n        \"pdf_link\": \"https://bs-korbach.de/images/vertretungsplan/dienstag.pdf\",\n        \"date\": \"05.11.2024\",\n        \"time\": \"07:56\"\n    },\n    \"Mittwoch\": {\n        \"pdf_link\": \"https://bs-korbach.de/images/vertretungsplan/mittwoch.pdf\",\n        \"date\": \"04.11.2024\",\n        \"time\": \"08:24\"\n    },\n    \"Donnerstag\": {\n        \"pdf_link\": \"https://bs-korbach.de/images/vertretungsplan/donnerstag.pdf\",\n        \"date\": \"04.11.2024\",\n        \"time\": \"12:54\"\n    },\n    \"Freitag\": {\n        \"pdf_link\": \"https://bs-korbach.de/images/vertretungsplan/freitag.pdf\",\n        \"date\": \"04.11.2024\",\n        \"time\": \"13:12\"\n    }\n}",
+					"file": "/home/niels/Documents/Coding&Design/Python/V-Plan_2.0/data/schedule_updates.json",
+					"file_size": 768,
+					"file_write_time": 133752680174024401,
+					"settings":
+					{
+						"buffer_size": 768,
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							3,
+							1,
+							"insert",
+							{
+								"characters": "niel"
+							},
+							"BAAAAAADAAAAAAAAAQMAAAAAAAAAAAAAAQMAAAAAAAACAwAAAAAAAAAAAAACAwAAAAAAAAMDAAAAAAAAAAAAAAMDAAAAAAAABAMAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAMAAAAAAAAAAwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							4,
+							1,
+							"insert",
+							{
+								"characters": "s."
+							},
+							"AgAAAAQDAAAAAAAABQMAAAAAAAAAAAAABQMAAAAAAAAGAwAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAABAMAAAAAAAAEAwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							5,
+							1,
+							"insert",
+							{
+								"characters": "süden"
+							},
+							"BQAAAAYDAAAAAAAABwMAAAAAAAAAAAAABwMAAAAAAAAIAwAAAAAAAAAAAAAIAwAAAAAAAAkDAAAAAAAAAAAAAAkDAAAAAAAACgMAAAAAAAAAAAAACgMAAAAAAAALAwAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAABgMAAAAAAAAGAwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							6,
+							1,
+							"insert",
+							{
+								"characters": "\n"
+							},
+							"AQAAAAsDAAAAAAAADAMAAAAAAAAAAAAA",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAACwMAAAAAAAALAwAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							7,
+							12,
+							"left_delete",
+							null,
+							"DAAAAAsDAAAAAAAACwMAAAAAAAABAAAACgoDAAAAAAAACgMAAAAAAAABAAAAbgkDAAAAAAAACQMAAAAAAAABAAAAZQgDAAAAAAAACAMAAAAAAAABAAAAZAcDAAAAAAAABwMAAAAAAAACAAAAw7wGAwAAAAAAAAYDAAAAAAAAAQAAAHMFAwAAAAAAAAUDAAAAAAAAAQAAAC4EAwAAAAAAAAQDAAAAAAAAAQAAAHMDAwAAAAAAAAMDAAAAAAAAAQAAAGwCAwAAAAAAAAIDAAAAAAAAAQAAAGUBAwAAAAAAAAEDAAAAAAAAAQAAAGkAAwAAAAAAAAADAAAAAAAAAQAAAG4",
+							"BAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAADAMAAAAAAAAMAwAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				},
+				{
+					"file": "/home/niels/.config/ags/widget/system_monitor/Window.js",
+					"settings":
+					{
+						"buffer_size": 3475,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							8,
+							11,
+							"left_delete",
+							null,
+							"CwAAAD8BAAAAAAAAPwEAAAAAAAABAAAAcz4BAAAAAAAAPgEAAAAAAAABAAAAYz0BAAAAAAAAPQEAAAAAAAABAAAAaTwBAAAAAAAAPAEAAAAAAAABAAAAbjsBAAAAAAAAOwEAAAAAAAABAAAAbzoBAAAAAAAAOgEAAAAAAAABAAAAcjkBAAAAAAAAOQEAAAAAAAABAAAAdDgBAAAAAAAAOAEAAAAAAAABAAAAYzcBAAAAAAAANwEAAAAAAAABAAAAZTYBAAAAAAAANgEAAAAAAAABAAAAbDUBAAAAAAAANQEAAAAAAAABAAAAZQ",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAABAAQAAAAAAAEABAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							9,
+							1,
+							"insert",
+							{
+								"characters": "cpu"
+							},
+							"AwAAADUBAAAAAAAANgEAAAAAAAAAAAAANgEAAAAAAAA3AQAAAAAAAAAAAAA3AQAAAAAAADgBAAAAAAAAAAAAAA",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA1AQAAAAAAADUBAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							12,
+							1,
+							"left_delete",
+							null,
+							"AQAAACgBAAAAAAAAKAEAAAAAAAANAAAAYXBwbGljYXRpb25zLQ",
+							"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAA1AQAAAAAAACgBAAAAAAAAAAAAAAAA8L8"
+						]
+					]
+				},
+				{
+					"file": "/home/niels/.config/wofi/style.css",
+					"settings":
+					{
+						"buffer_size": 839,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							5,
+							1,
+							"indent",
+							null,
+							"BAAAAIcCAAAAAAAAiAIAAAAAAAAAAAAAoAIAAAAAAAChAgAAAAAAAAAAAAC9AgAAAAAAAL4CAAAAAAAAAAAAANkCAAAAAAAA2gIAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAA6gIAAAAAAACHAgAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							8,
+							1,
+							"indent",
+							null,
+							"BQAAANMBAAAAAAAA1AEAAAAAAAAAAAAABwIAAAAAAAAIAgAAAAAAAAAAAAAcAgAAAAAAAB0CAAAAAAAAAAAAAD8CAAAAAAAAQAIAAAAAAAAAAAAAXAIAAAAAAABdAgAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAcgIAAAAAAADSAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							11,
+							1,
+							"indent",
+							null,
+							"AwAAAJkBAAAAAAAAmgEAAAAAAAAAAAAAqwEAAAAAAACsAQAAAAAAAAAAAAC6AQAAAAAAALsBAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAxAEAAAAAAACZAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							14,
+							1,
+							"indent",
+							null,
+							"AwAAAEoBAAAAAAAASwEAAAAAAAAAAAAAWQEAAAAAAABaAQAAAAAAAAAAAAB1AQAAAAAAAHYBAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAjQEAAAAAAABKAQAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							19,
+							1,
+							"indent",
+							null,
+							"BAAAAMcAAAAAAAAAyAAAAAAAAAAAAAAA+wAAAAAAAAD8AAAAAAAAAAAAAAAKAQAAAAAAAAsBAAAAAAAAAAAAACUBAAAAAAAAJgEAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAOwEAAAAAAADGAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							24,
+							1,
+							"indent",
+							null,
+							"BQAAACYAAAAAAAAAJwAAAAAAAAAAAAAANQAAAAAAAAA2AAAAAAAAAAAAAABPAAAAAAAAAFAAAAAAAAAAAAAAAIMAAAAAAAAAhAAAAAAAAAAAAAAAlQAAAAAAAACWAAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAAqQAAAAAAAAAmAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							26,
+							1,
+							"left_delete",
+							null,
+							"AQAAAK0AAAAAAAAArQAAAAAAAAABAAAACg",
+							"AQAAAAAAAAABAAAArgAAAAAAAACuAAAAAAAAAAAAAAAAAPC/"
+						],
+						[
+							30,
+							1,
+							"insert",
+							{
+								"characters": "\t"
+							},
+							"AQAAAA0AAAAAAAAADgAAAAAAAAAAAAAA",
+							"AQAAAAAAAAABAAAADQAAAAAAAAANAAAAAAAAAAAAAAAAAAAA"
+						],
+						[
+							33,
+							1,
+							"left_delete",
+							null,
+							"AQAAAMoAAAAAAAAAygAAAAAAAAABAAAACg",
+							"AQAAAAAAAAABAAAAywAAAAAAAADLAAAAAAAAAAAAAAAAAEJA"
+						],
+						[
+							36,
+							1,
+							"left_delete",
+							null,
+							"AQAAAN8BAAAAAAAA3wEAAAAAAAABAAAACg",
+							"AQAAAAAAAAABAAAA4AEAAAAAAADgAQAAAAAAAAAAAAAAAPC/"
+						]
+					]
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/niels/.config/wofi/style.css",
+				"/home/niels/.config/hypr/hypridle.conf",
+				"/home/niels/.config/ags/colortest/httyd3-light-fury-toothless.jpg.json",
+				"/home/niels/.config/ags/colortest/.json",
+				"/home/niels/.config/hypr/hyprland.conf",
+				"/home/niels/.config/ags/style/vars.scss",
+				"/home/niels/install.log",
+				"/home/niels/Downloads/users.json",
+				"/home/niels/.var/app/org.prismlauncher.PrismLauncher/data/PrismLauncher/instances/Fabulously Optimized/.minecraft/resourcepacks/Alacrity/pack.mcmeta",
+				"/home/niels/.config/ags/widget/control_center/buttons/hypridle_file.sh",
+				"/home/niels/.config/spicetify/config-xpui.ini",
+				"/home/niels/Desktop/Apps/Linux/StundenplanFetchBash/settings.txt",
+				"/home/niels/Desktop/Apps/Linux/StundenplanFetchBash/owner_lessons.txt",
+				"/home/niels/Desktop/Apps/Linux/StundenplanFetchBash/.pdf_creds.txt",
+				"/home/niels/.config/ags/widget/network/Bluetooth.js",
+				"/home/niels/.config/ags/widget/workspaces/PanelButton.js",
+				"/home/niels/Desktop/Apps/Linux/StundenplanFetchBash/stundenplanfetch.sh",
+				"/home/niels/Downloads/ESP32-RC/joy.py",
+				"/home/niels/Documents/Coding&Design/Python/laptimer/NordLaps_V5.py",
+				"/home/niels/Documents/Coding&Design/Python/V-Plan_2.0/.gitignore",
+				"/home/niels/.config/ags/widget/control_center/buttons/Container.js",
+				"/home/niels/.gitconfig",
+				"/home/niels/.config/ags/widget/control_center/buttons/hypridle_timer.js",
+				"/home/niels/.config/ags/widget/control_center/buttons/color_picker.js",
+				"/home/niels/.config/ags/widget/control_center/buttons/dark_mode.js",
+				"/home/niels/Downloads/message.txt",
+				"/home/niels/.config/hypr/hyprlock.conf",
+				"/home/niels/Desktop/Apps/Linux/BacklightControls/DisplayToggle.sh",
+				"/home/niels/.config/ags/widget/control_center/Window.js",
+				"/home/niels/.config/ags/services/configuration.js",
+				"/home/niels/.config/ags/functions/globals.js",
+				"/home/niels/.config/ags/functions/monitor_configuration.js",
+				"/home/niels/.config/ags/colors.json",
+				"/home/niels/.config/ags/config.json",
+				"/home/niels/.config/ags/config.js",
+				"/home/niels/.config/ags/init.js",
+				"/home/niels/.config/ags/windows.js",
+				"/home/niels/Desktop/Apps/Linux/BacklightControls/brightnessold",
+				"/home/niels/Desktop/Apps/Linux/BacklightControls/brightnesstog.py",
+				"/home/niels/.config/ags/tsconfig.json",
+				"/sys/class/backlight/intel_backlight/brightness",
+				"/home/niels/.config/ags/widget/systray/SysTray.js",
+				"/home/niels/.config/ags/widget/bar/Window.js",
+				"/home/niels/Documents/Coding&Design/Python/V-Plan_2.0/users.json",
+				"/home/niels/.config/ags/style/widgets/systray.scss",
+				"/home/niels/.config/ags/widget/PanelButton.js",
+				"/home/niels/Downloads/dotfiles-desktop/ags/style/main.scss",
+				"/home/niels/Downloads/dotfiles-desktop/ags/style/colors.scss",
+				"/home/niels/Downloads/dotfiles-desktop/ags/style/common.scss",
+				"/home/niels/Downloads/dotfiles-desktop/ags/style/functions.scss",
+				"/home/niels/Downloads/dotfiles-desktop/ags/style/vars.scss",
+				"/home/niels/Downloads/dotfiles-desktop/ags/widget/bar/Window.js",
+				"/home/niels/Downloads/dotfiles-desktop/ags/functions/utils.js",
+				"/home/niels/Downloads/dotfiles-desktop/ags/functions/wallpaper.js",
+				"/home/niels/Downloads/dotfiles-desktop/ags/windows.js",
+				"/home/niels/Downloads/dotfiles-desktop/ags/config.js",
+				"/home/niels/Downloads/dotfiles-desktop/ags/vars.js",
+				"/home/niels/Downloads/dotfiles-desktop/ags/init.js",
+				"/home/niels/.config/ags/vars.js",
+				"/home/niels/.config/ags/services/asusctl.ts",
+				"/home/niels/.config/ags/widget/system_indicators/SystemIndicators.ts",
+				"/home/niels/Downloads/aylur-dotfiles-main/ags/widget/bar/buttons/SystemIndicators.ts",
+				"/home/niels/.config/ags/style/widgets/osd.scss",
+				"/home/niels/.config/ags/types/variable.d.ts",
+				"/home/niels/.config/ags/types/ags.d.ts",
+				"/home/niels/.config/ags/style/widgets/wallpaper-picker.scss",
+				"/home/niels/.config/ags/style/widgets/bar.scss",
+				"/home/niels/.config/ags/style/functions.scss",
+				"/home/niels/.config/ags/style/widgets/control-center.scss",
+				"/home/niels/.config/ags/style/main.scss",
+				"/home/niels/.config/ags/style/common.scss",
+				"/home/niels/.config/ags/style/colors.scss",
+				"/home/niels/.config/ags/functions/wallpaper.js",
+				"/home/niels/.config/ags/colortest/matugenchooser.sh",
+				"/home/niels/Downloads/GitToken",
+				"/home/niels/.config/ags/colortest/killua-wallpaper_dark_ohneStern.png.json",
+				"/home/niels/.config/.gitignore",
+				"/home/niels/Desktop/Apps/Linux/StundenPlanFetchBash/owner_lessons.txt",
+				"/home/niels/Desktop/Apps/Linux/StundenPlanFetchBash/.pdf_creds.txt",
+				"/home/niels/Desktop/Apps/Linux/StundenPlanFetchBash/settings.txt",
+				"/home/niels/.config/ags/widget/battery/Window.js",
+				"/home/niels/.config/ags/widget/battery/PanelButton.js",
+				"/home/niels/Downloads/aylur-dotfiles-main/ags/widget/bar/buttons/SysTray.ts",
+				"/home/niels/Downloads/aylur-dotfiles-main/ags/widget/bar/Bar.ts",
+				"/home/niels/.config/ags/widget/audio/PanelButton.js",
+				"/home/niels/.config/ags/widget/trayicons/PanelButton.js",
+				"/home/niels/.config/ags/widget/applauncher/PanelButton.js",
+				"/home/niels/.config/ags/widget/applauncher/Window.js",
+				"/home/niels/.config/ags/widget/bar/buttons/SysTray.ts",
+				"/home/niels/.config/ags/widget/wallpaper_picker/Window.js",
+				"/home/niels/.config/ags/colortest/Grello3.jpg.json",
+				"/home/niels/.config/ags/colortest/Grello2.png.json",
+				"/home/niels/.config/ags/colortest/Grello.jpg.json",
+				"/home/niels/.config/ags/colortest/grello2.png.json",
+				"/home/niels/.config/ags/colortest/nordschleife.png.json",
+				"/home/niels/.config/ags/colortest/killua-wallpaper_dark.png.json",
+				"/home/niels/.config/ags/colortest/bmws.png.json",
+				"/home/niels/.config/gtk-3.0/settings.ini",
+				"/usr/share/themes/adw-gtk3-dark/gtk-3.0/gtk-dark.css",
+				"/home/niels/.config/ags/style/widgets/workspaces.scss",
+				"/home/niels/.config/ags/style/widgets/battery-popup.scss",
+				"/home/niels/.config/ags/style/widgets/audio-popup.scss",
+				"/home/niels/.config/ags/widget/control_center/buttons/screen_record.js",
+				"/home/niels/.config/ags/services/brightness.js",
+				"/home/niels/.config/ags/widget/osd/ProgressOsd.js",
+				"/home/niels/.config/ags/widget/osd/Progress.js",
+				"/home/niels/.config/ags/widget/network_speed/PanelButton.js",
+				"/home/niels/.config/ags/widget/control_center/Brightness.js",
+				"/home/niels/.config/ags/widget/control_center/buttons/screenshot.js",
+				"/home/niels/.config/ags/widget/control_center/buttons/dnd.js",
+				"/home/niels/.config/ags/widget/control_center/Notifications.js",
+				"/home/niels/.config/ags/widget/control_center/PanelButton.js",
+				"/home/niels/.config/ags/style/widgets/network-speed.scss",
+				"/home/niels/.config/ags/services/network_speed.js",
+				"/home/niels/.config/ags/functions/utils.js",
+				"/home/niels/.config/ags/widget/network/PanelButton.js",
+				"/home/niels/.config/ags/widget/network/Wifi.js",
+				"/home/niels/.config/ags/widget/network/Window.js",
+				"/home/niels/.config/ags/widget/client/PanelButton.js",
+				"/home/niels/.config/ags/widget/hyprsplash/Window.js",
+				"/home/niels/.config/ags/widget/powermenu/PowerMenuWindow.js",
+				"/home/niels/.config/ags/widget/system_monitor/Window.js",
+				"/home/niels/.config/ags/widget/PopupWindow.js",
+				"/home/niels/.config/ags/services/powermenu.js",
+				"/home/niels/.config/ags/functions/theme/gtk.js",
+				"/home/package.json",
+				"/home/package-lock.json",
+				"/home/niels/.config/ags/style/widgets/applauncher.scss"
+			],
+			"find":
+			{
+				"height": 29.0
+			},
+			"find_in_files":
+			{
+				"height": 113.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"color",
+					"exec-",
+					"layou",
+					"ser",
+					"displ",
+					"ser",
+					"scroll",
+					"sens",
+					"light",
+					"screensh",
+					"AppLau",
+					"brigh",
+					"icon",
+					"icons",
+					"icon",
+					"import",
+					"appla",
+					"scree",
+					"icon",
+					"ags"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/niels/.config/hypr/hypridle.conf",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 855,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										1,
+										1
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/niels/.config/hypr/hyprland.conf",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 9382,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										4681,
+										4685
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 2833.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/niels/Documents/Coding&Design/Python/V-Plan_2.0/data/schedule_updates.json",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 768,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										768,
+										768
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JSON/JSON.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/niels/.config/ags/widget/system_monitor/Window.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3475,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										296,
+										296
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 63.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/home/niels/.config/wofi/style.css",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 839,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										479,
+										479
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/CSS/CSS.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 204.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 29.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,0,939,996,1920,1080,0",
+			"project": "",
+			"replace":
+			{
+				"height": 54.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 3,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
