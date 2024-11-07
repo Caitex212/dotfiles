@@ -12,3 +12,4 @@
 !alacritty/**/*
 !sublime-text/
 !sublime-text/**/*
+!wofi/**/*

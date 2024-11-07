@@ -9,7 +9,7 @@ const CpuProgress = () =>
         class_name: "progress",
         value: cpu.bind(),
         child: Widget.Icon({
-          icon: "applications-electronics-symbolic",
+          icon: "cpu-symbolic",
           hpack: "center",
         }),
       }),
