@@ -1,0 +1,148 @@
+@import "../../.cache/wal/colors-waybar.css";
+
+* {
+  min-height: 0;
+  min-width: 0;
+  font-family: Lexend, "JetBrainsMono NFP";
+  font-size: 16px;
+  font-weight: 600;
+}
+
+window#waybar {
+  background-color: transparent;
+}
+
+/* Base style for all modules */
+#workspaces button,
+#clock,
+#clock.simpleclock,
+#pulseaudio,
+#custom-logo,
+#custom-power,
+#custom-notification,
+#cpu,
+#tray,
+#power-profiles-daemon,
+#memory,
+#window,
+#mpris {
+  padding: 0.3rem 0.6rem;
+  margin: 0.4rem 0.25rem;
+  border-radius: 6px;
+  background-color: @background;
+  color: @foreground;
+  border: 2px solid @color8; /* Using a muted color for standard borders */
+}
+
+/* Dynamic Animation using pywal colors */
+@keyframes dynamicBorder {
+  0%   { border-color: @color2; border-top-color: @color5; }
+  25%  { border-color: @color5; border-right-color: @color2; }
+  50%  { border-color: @color2; border-bottom-color: @color5; }
+  75%  { border-color: @color5; border-left-color: @color2; }
+  100% { border-color: @color2; border-top-color: @color5; }
+}
+
+#workspaces button:hover,
+#clock:hover,
+#clock.simpleclock:hover,
+#pulseaudio:hover,
+#custom-notification:hover,
+#cpu:hover,
+#memory:hover,
+#tray:hover,
+#custom-power:hover {
+  animation: dynamicBorder 2s infinite linear;
+}
+
+/* Music Player (MPRIS) */
+#mpris {
+  background-color: @background; 
+  color: @color2;
+  border: 2px solid @color2; 
+  animation: dynamicBorder 3s infinite linear;
+}
+
+#mpris:hover {
+  animation: dynamicBorder 1.5s infinite linear;
+  background-color: @color8;
+}
+
+#mpris.playing {
+  color: @color2;
+  border-color: @color2;
+}
+
+#mpris.paused {
+  color: @color7;
+  border-color: @color8;
+  animation: none;
+}
+
+/* System Modules */
+#cpu, #memory, #clock, #clock.simpleclock, #window, #pulseaudio, #custom-notification, #custom-power {
+  background-color: @background;
+  color: @foreground;
+}
+
+#pulseaudio.muted {
+  color: @color8;
+  opacity: 0.8;
+}
+
+#custom-notification:hover {
+  color: @color2; 
+}
+
+#custom-power:hover {
+  color: @color1; 
+  border-color: @color1;
+}
+
+/* Workspaces */
+#workspaces button {
+  background-color: @background;
+  color: @color7;
+}
+
+#workspaces button:hover {
+  color: @background; 
+  background-color: @color2;
+}
+
+#workspaces button.active {
+  background-color: @color2;
+  color: @background;
+  border-color: @color2;
+}
+
+#workspaces button.urgent {
+  background-color: @color1; /* Usually red/urgent in pywal */
+  color: @background;
+  border-color: @color1;
+}
+
+/* Tray & Tooltip */
+#tray {
+  color: @foreground;
+  background-color: @background; 
+}
+
+tooltip {
+  background-color: @background;
+  border: 2px solid @color2;
+  border-radius: 8px;
+  color: @foreground;
+}
+
+#custom-sep {
+  padding: 0px;
+  color: @color8;
+  border: none;
+  background: transparent;
+}
+
+window#waybar.empty #window {
+  background-color: transparent;
+  border: none;
+}
