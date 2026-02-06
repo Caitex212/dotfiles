@@ -13,6 +13,7 @@
     "power-profiles-daemon",
     "battery",
     "network",
+    "bluetooth",
     "pulseaudio",
     "tray",
     "clock",
@@ -52,13 +53,25 @@
         "󰁹"  // 90-100%
     ]
   },
+  "bluetooth": {
+    "format": "",
+    "format-off": "󰂲", 
+    "format-disabled": "󰂲",
+    "format-connected": " {device_alias}",
+    "format-connected-battery": " {device_alias} {device_battery_percentage}%",
+    "tooltip-format": "{num_connections} connected",
+    "tooltip-format-connected": "{num_connections} connected\n\n{device_enumerate}",
+    "tooltip-format-enumerate-connected": "{device_alias}\t{device_address}",
+    "tooltip-format-enumerate-connected-battery": "{device_alias}\t{device_address}\t{device_battery_percentage}%",
+    "on-click": "blueman-manager"
+  },
   "network": {
     "format-wifi": "{icon}  {essid}",
     "format-ethernet": "󰈀  {ifname}",
     "format-linked": "󰈀 {ifname} (No IP)",
     "format-disconnected": "󰖪  Disconnected",
     "tooltip-format": "IP: {ipaddr}\nInterface: {ifname}\nStrength: {signalStrength}%",
-    "on-click": "kitty -e nmtui",
+    "on-click": "kitty --class nmtui -e nmtui",
     "format-icons": [
         "󰤯", // 0%
         "󰤟", // 25%
