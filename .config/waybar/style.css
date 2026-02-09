@@ -34,52 +34,43 @@ window#waybar {
   border-radius: 6px;
   background-color: @background;
   color: @foreground;
-  border: 2px solid @color8; /* Using a muted color for standard borders */
+  border: 2px solid @color11;
 }
 
-/* Dynamic Animation using pywal colors */
-@keyframes dynamicBorder {
-  0%   { border-color: @color2; border-top-color: @color5; }
-  25%  { border-color: @color5; border-right-color: @color2; }
-  50%  { border-color: @color2; border-bottom-color: @color5; }
-  75%  { border-color: @color5; border-left-color: @color2; }
-  100% { border-color: @color2; border-top-color: @color5; }
+#clock,
+#clock.simpleclock,
+#pulseaudio,
+#custom-logo,
+#custom-power,
+#custom-notification,
+#cpu,
+#tray,
+#battery,
+#network,
+#bluetooth,
+#power-profiles-daemon,
+#memory,
+#mpris {
+  border: 2px solid @color1;
 }
 
-#workspaces button:hover,
-#clock:hover,
-#clock.simpleclock:hover,
-#pulseaudio:hover,
-#custom-notification:hover,
-#cpu:hover,
-#memory:hover,
-#tray:hover,
-#custom-power:hover {
-  animation: dynamicBorder 2s infinite linear;
+@keyframes spotifyAnimation {
+  0%   { border-color: @color2;}
+  50%  { border-color: #1db954;}
+  100% { border-color: @color2;}
 }
 
 /* Music Player (MPRIS) */
-#mpris {
-  background-color: @background; 
-  color: @color2;
-  border: 2px solid @color2; 
-  animation: dynamicBorder 3s infinite linear;
-}
-
-#mpris:hover {
-  animation: dynamicBorder 1.5s infinite linear;
-  background-color: @color8;
-}
-
 #mpris.playing {
-  color: @color2;
-  border-color: @color2;
+  color: @color7;
+  border: 2px solid;
+  border-image-slice: 1;
+  animation: spotifyAnimation 4s infinite linear;
 }
 
 #mpris.paused {
-  color: @color7;
+  color: @color2;
   border-color: @color8;
-  animation: none;
 }
 
 /* System Modules */
@@ -93,13 +84,27 @@ window#waybar {
   opacity: 0.8;
 }
 
-#custom-notification:hover {
-  color: @color2; 
+#custom-notification:hover,
+#clock:hover,
+#clock.simpleclock:hover,
+#pulseaudio:hover,
+#custom-logo:hover,
+#custom-power:hover,
+#custom-notification:hover,
+#cpu:hover,
+#tray:hover,
+#battery:hover,
+#network:hover,
+#bluetooth:hover,
+#power-profiles-daemon:hover,
+#memory:hover
+{
+  color: @color3;
 }
 
 #custom-power:hover {
-  color: @color1; 
-  border-color: @color1;
+  color: @color4; 
+  border-color: @color4;
 }
 
 /* Workspaces */
@@ -109,18 +114,12 @@ window#waybar {
 }
 
 #workspaces button:hover {
-  color: @background; 
-  background-color: @color2;
+  color: @color3;
+  background-color: @background;
 }
 
 #workspaces button.active {
-  background-color: @color2;
-  color: @background;
-  border-color: @color2;
-}
-
-#workspaces button.urgent {
-  background-color: @color1; /* Usually red/urgent in pywal */
+  background-color: @color1;
   color: @background;
   border-color: @color1;
 }
@@ -129,20 +128,6 @@ window#waybar {
 #tray {
   color: @foreground;
   background-color: @background; 
-}
-
-tooltip {
-  background-color: @background;
-  border: 2px solid @color2;
-  border-radius: 8px;
-  color: @foreground;
-}
-
-#custom-sep {
-  padding: 0px;
-  color: @color8;
-  border: none;
-  background: transparent;
 }
 
 window#waybar.empty #window {
