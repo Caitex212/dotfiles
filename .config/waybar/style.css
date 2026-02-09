@@ -92,14 +92,13 @@ window#waybar {
 #custom-power:hover,
 #custom-notification:hover,
 #cpu:hover,
-#tray:hover,
 #battery:hover,
 #network:hover,
 #bluetooth:hover,
 #power-profiles-daemon:hover,
 #memory:hover
 {
-  color: @color3;
+  border-color: @color8;
 }
 
 #custom-power:hover {
@@ -114,14 +113,13 @@ window#waybar {
 }
 
 #workspaces button:hover {
-  color: @color3;
-  background-color: @background;
+  border-color: @color8;
 }
 
 #workspaces button.active {
-  background-color: @color1;
+  background-color: @color8;
   color: @background;
-  border-color: @color1;
+  border-color: @color8;
 }
 
 /* Tray & Tooltip */
