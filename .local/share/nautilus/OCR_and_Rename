@@ -1,0 +1,28 @@
+#!/bin/bash
+
+# 1. Ask for the output name
+NEW_NAME=$(zenity --entry --title="OCR images to PDF" --text="Enter output filename (no extension):" --entry-text="combined_ocr")
+if [ -z "$NEW_NAME" ]; then exit 1; fi
+
+# 2. Get selected files and sort them alphabetically
+IFS=$'\n' sorted_files=($(echo "$NAUTILUS_SCRIPT_SELECTED_FILE_PATHS" | sort))
+
+# 3. Define temporary path for the merged (non-OCR) PDF
+TMP_PDF="/tmp/merged_images_temp.pdf"
+OUTPUT_PDF="${NEW_NAME}.pdf"
+
+# 4. Convert all sorted images into one PDF
+# img2pdf handles multiple inputs and merges them in the order provided
+img2pdf "${sorted_files[@]}" -o "$TMP_PDF"
+
+# 5. Run OCR on the combined PDF
+# --image-dpi 300 is often needed if images lack metadata
+ocrmypdf \
+    --image-dpi 30 \
+    -l deu+eng+spa \
+    --deskew \
+    "$TMP_PDF" "$OUTPUT_PDF"
+
+# 6. Cleanup and Notify
+rm "$TMP_PDF"
+notify-send "Finished" "Saved as $OUTPUT_PDF"
