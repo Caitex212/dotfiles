@@ -172,3 +172,5 @@ fastfetch --config examples/13
 export PATH=$PATH:/home/caitex/.spicetify
 export PATH=$PATH:~/.spicetify
 export PATH=$PATH:~/.local/bin
+
+alias ls=lsd
