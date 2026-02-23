@@ -5,7 +5,7 @@ case $- in
 esac
 
 # Path to your oh-my-bash installation.
-export OSH='/home/caitex/.oh-my-bash'
+export OSH="$HOME/.oh-my-bash"
 
 # Set name of the theme to load. Optionally, if you set this to "random"
 # it'll load a random theme each time that oh-my-bash is loaded.
@@ -169,7 +169,7 @@ function y() {
 }
 
 fastfetch --config examples/13
-export PATH=$PATH:/home/caitex/.spicetify
+export PATH=$PATH:$HOME/.spicetify
 export PATH=$PATH:~/.spicetify
 export PATH=$PATH:~/.local/bin
 
