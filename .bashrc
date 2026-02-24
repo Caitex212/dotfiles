@@ -172,5 +172,6 @@ fastfetch --config examples/13
 export PATH=$PATH:$HOME/.spicetify
 export PATH=$PATH:~/.spicetify
 export PATH=$PATH:~/.local/bin
+export PATH=$PATH:~/.zellij
 
 alias ls=lsd
