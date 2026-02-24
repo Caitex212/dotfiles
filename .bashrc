@@ -169,9 +169,17 @@ function y() {
 }
 
 fastfetch --config examples/13
-export PATH=$PATH:$HOME/.spicetify
 export PATH=$PATH:~/.spicetify
 export PATH=$PATH:~/.local/bin
 export PATH=$PATH:~/.zellij
+export PATH=/usr/local/cuda-12.6/bin:$PATH
+export LD_LIBRARY_PATH=/usr/local/cuda-12.6/lib64:$LD_LIBRARY_PATH
+export PATH=/home/niels/.dotnet/tools/:$PATH
+
+# bun
+export BUN_INSTALL="$HOME/.bun"
+export PATH="$BUN_INSTALL/bin:$PATH"
+
+export PATH=/home/niels/flutter/bin:$PATH
 
 alias ls=lsd
