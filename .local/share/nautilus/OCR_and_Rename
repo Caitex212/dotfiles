@@ -1,28 +1,40 @@
 #!/bin/bash
 
-# 1. Ask for the output name
+# 1. Ask for output name and if we should scale to A4
+# We use --list with a checkbox to get a TRUE/FALSE response
+RESIZE_A4=$(zenity --list --checklist --title="OCR images to PDF" --column="Select" --column="Option" TRUE "Scale output to A4" --separator=",")
+
 NEW_NAME=$(zenity --entry --title="OCR images to PDF" --text="Enter output filename (no extension):" --entry-text="combined_ocr")
 if [ -z "$NEW_NAME" ]; then exit 1; fi
 
 # 2. Get selected files and sort them alphabetically
 IFS=$'\n' sorted_files=($(echo "$NAUTILUS_SCRIPT_SELECTED_FILE_PATHS" | sort))
 
-# 3. Define temporary path for the merged (non-OCR) PDF
+# 3. Define paths
 TMP_PDF="/tmp/merged_images_temp.pdf"
-OUTPUT_PDF="${NEW_NAME}.pdf"
+OCR_PDF="/tmp/ocr_output_temp.pdf"
+FINAL_OUTPUT="${NEW_NAME}.pdf"
 
 # 4. Convert all sorted images into one PDF
-# img2pdf handles multiple inputs and merges them in the order provided
 img2pdf "${sorted_files[@]}" -o "$TMP_PDF"
 
 # 5. Run OCR on the combined PDF
-# --image-dpi 300 is often needed if images lack metadata
 ocrmypdf \
-    --image-dpi 30 \
+    --image-dpi 300 \
     -l deu+eng+spa \
     --deskew \
-    "$TMP_PDF" "$OUTPUT_PDF"
+    "$TMP_PDF" "$OCR_PDF"
 
-# 6. Cleanup and Notify
+# 6. Resize to A4 if the checkbox was ticked
+if [[ "$RESIZE_A4" == "Scale output to A4" ]]; then
+    gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dNOPAUSE -dQUIET -dBATCH \
+       -sPAPERSIZE=a4 -dFIXEDMEDIA -dPDFFitPage \
+       -sOutputFile="$FINAL_OUTPUT" "$OCR_PDF"
+    rm "$OCR_PDF"
+else
+    mv "$OCR_PDF" "$FINAL_OUTPUT"
+fi
+
+# 7. Cleanup and Notify
 rm "$TMP_PDF"
-notify-send "Finished" "Saved as $OUTPUT_PDF"
+notify-send "Finished" "Saved as $FINAL_OUTPUT"
