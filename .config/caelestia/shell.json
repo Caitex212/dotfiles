@@ -68,7 +68,7 @@
             "systemctl",
             "suspend-then-hibernate"
           ],
-          "timeout": 600
+          "timeout": 0
         }
       ]
     },
