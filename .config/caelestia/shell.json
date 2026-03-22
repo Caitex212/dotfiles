@@ -166,7 +166,7 @@
     },
     "tray": {
       "background": true,
-      "recolour": true,
+      "recolour": false,
       "compact": false,
       "iconSubs": [],
       "hiddenIcons": []
